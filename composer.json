@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.15",
+        "guzzlehttp/guzzle": "7.0"
+    }
+}

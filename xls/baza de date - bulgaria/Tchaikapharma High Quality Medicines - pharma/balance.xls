@@ -1,0 +1,10401 @@
+<META http-equiv=Content-Type content="application/vnd.ms-excel; charset=utf-8">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:e="urn:schemas-microsoft-com:office:excel" >
+ <head id="_ctl0_Head1">
+	<xml>
+		<e:ExcelWorkbook xmlns:e="urn:schemas-microsoft-com:office:excel">
+		<e:ExcelWorksheets>
+		<e:ExcelWorksheet>
+			<e:Name>Tchaikapharma High Quality Medi</e:Name>
+			<e:WorksheetOptions>
+			<e:Selected/>
+			<e:DoNotDisplayGridlines/>
+			<e:Panes>
+			<e:Pane>
+			<e:Number>3</e:Number>
+			<e:ActiveRow>13</e:ActiveRow>
+			<e:ActiveCol>23</e:ActiveCol>
+			</e:Pane>
+			</e:Panes>
+			</e:WorksheetOptions>
+		</e:ExcelWorksheet>
+		</e:ExcelWorksheets>
+		</e:ExcelWorkbook>
+	</xml>
+<!--#masterPageName:ExcelLayout.Master-->
+<title>
+
+</title></head>
+
+<body>
+	<style type="text/css">
+
+	
+	<!--table
+	{
+		mso-displayed-decimal-separator:"\.";
+		mso-displayed-thousand-separator:"\,";
+	}
+	-->
+	
+	TABLE.datatable {
+		table-layout: auto;
+		font: 11px Tahoma;
+		border-collapse:collapse;
+	}
+
+	TR.row-e{
+		background-color : #C0C0C0;
+		font-weight : normal;
+	}
+
+	TR.row-e, TR.row-o {
+		vertical-align:top;
+	}
+
+	TR.hr {
+		color:#000000;
+		font-family: Tahoma;
+		font-weight : bold;
+		font-size:8.0pt;
+		vertical-align:bottom;
+		padding-bottom:2px;
+		background-color : 	#ccccff;
+	}
+
+	.datatabletitle { font: bold 11px Tahoma; padding: 10px 1px 2px 1px; vertical-align: bottom; border-bottom: 1px solid #9B9B9B; }
+
+
+	.mso_title{
+		color:#000000;
+		font-family: Tahoma;
+		font-weight : bold;
+		font-size:8.0pt;
+		padding-right:1px;
+		padding-left:1px;
+		vertical-align:bottom;
+		padding-bottom:2px;
+		border-bottom:1px solid #9B9B9B;
+		width:100%;
+	}
+
+	.mso_stitle, .mso_synopsistitle{
+		color:#000000;
+		font-family: Tahoma;
+		font-weight : bold;
+		font-size:8.0pt;
+		vertical-align:bottom;
+		padding-bottom:2px;
+	}
+
+	@media print {
+		TABLE.mso_main {table-layout:auto;}
+	}
+
+	@media screen {
+		TABLE.mso_main, TABLE.mso_main-f {table-layout:auto;}
+		/* TABLE.mso_main, TABLE.mso_main-f {table-layout:auto; padding-left:10px; padding-right:10px; padding-bottom:10px; padding-top:10px; }*/
+		TABLE.mso_page {table-layout:auto; padding-left:10px; padding-right:10px; padding-bottom:10px; padding-top:10px; }
+	}
+
+	.mso_tablespacer, .mso_table-spacer {
+		width:10px;
+	}
+
+	TR.mso_spacer{
+		height:20px;
+	}
+
+	/* use on tables that use dotted lines above the footer */
+	TR.mso_spacer-d{
+		height:17px;
+		position : relative;
+		top : 3px;
+	}
+
+	TD.mso_spacer {
+		width:7px;
+		color:black;
+		background-color: white;
+		font-family: Verdana, Arial, sans-serif;
+		font-weight: normal;
+		font-size: 7px;
+	}
+
+	.mso_ch-spacer {
+		width:8px;
+		background-color: #e4e4e4;
+		color:black;
+	}
+
+	.mso_column-spacer {
+		width:8px;
+	}
+
+	.mso_sbWidth, .mso_sb-width-sort
+	{
+		width:16px;
+		color: #7f7f7f;
+		background-color: #e4e4e4;
+	}
+	.mso_sb-width {
+		width:16px;
+	}
+
+	.mso_spacer-sort {
+		width:8px;
+		background-color: #e4e4e4;
+		color:black;
+	}
+
+	TR.mso_spacer-doubleTable{
+		height:13px;
+	}
+
+	td.mso_solidLines, td.mso_slc {
+		border-style : solid;
+		border-bottom-width: 1px;
+		border-top-width: 0px;
+		border-right-width : 0px;
+		border-left-width : 0px;
+		border-bottom-color: #808080;
+		font-size : 1px;
+	}
+
+	TR.mso_sh, TR.mso_standardheight {
+		height: 16px;
+	}
+
+	TR.mso_sh-c, TR.mso_standardheight-compact, TD.mso_sh-c {
+		height: 10px;
+	}
+
+	TR.mso_hr, TR.mso_headerrow {
+		/* height: 16px; */
+	}
+
+	TR.mso_blankRow {
+
+	}
+	TD.mso_blankRow {
+		font-size : 0px;
+		height : 0px;
+	}
+
+	.mso_textrow {
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		text-align: LEFT;
+		border-bottom:1px solid #FFFFFF;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	TR.mso_evenrow {
+		background-color : #FFFFFF;
+		font-weight : normal;
+		height: 16px;
+	}
+
+	TD.mso_evenrow{
+		background-color : #FFFFFF;
+		font-weight : normal;
+		border-bottom: 1px solid #ffffff;
+		border-left: 1px solid #ffffff;
+		height: 16px;
+	}
+
+	TD.mso_evenrow-l{
+		background-color : #FFFFFF;
+		font-weight : normal;
+		border-bottom: 1px solid #EEEEEE;
+		border-left: 1px solid #ffffff;
+		height: 16px;
+	}
+
+	TD.mso_evenrow-s,TD.mso_evenrow-l-s, TD.mso_evenrow-selected{
+		background-color : #F4FFE0;
+		font-weight : normal;
+		border-bottom: 1px solid #ffffff;
+		border-left: 1px solid #ffffff;
+		height: 16px;
+	}
+
+	TR.mso_oddrow  {
+		background-color : #DDDDDD;
+		font-weight : normal;
+		height: 16px;
+	}
+
+	TD.mso_oddrow{
+		font-weight : normal;
+		background-color : #DDDDDD;
+		border-left: 1px solid #ffffff;
+		height: 16px;
+	}
+
+	TD.mso_oddrow-l{
+		font-weight : normal;
+		background-color : #DDDDDD;
+		border-left: 1px solid #ffffff;
+		border-bottom: 1px solid #EEEEEE;
+		height: 16px;
+	}
+
+	TD.mso_oddrow-s,TD.mso_oddrow-l-s, TD.mso_oddrow-selected{
+		font-weight : normal;
+		background-color : #EAF4D6;
+		border-left: 1px solid #ffffff;
+		height: 16px;
+	}
+
+	.mso_hl-e, .mso_highlight-even{
+		font-weight:bold;
+		background-color:#DEFDBF;
+		color:#336600;
+	}
+
+	.mso_hl-o, .mso_highlight-oddrow{
+		font-weight:bold;
+		background-color:#9DF8BA;
+		color:#336600;
+	}
+
+	.mso_right {
+		text-align:right;
+	}
+
+	.mso_left {
+		text-align:left;
+	}
+
+	.mso_center {
+		text-align:center;
+	}
+
+	.mso_top {
+		vertical-align:top;
+	}
+
+	.mso_bottom {
+		vertical-align:bottom;
+	}
+
+	BODY  {
+		leftMargin:0;
+		rightMargin:0;
+		topMargin:0;
+		bottomMargin:0;
+	}
+
+	P, .mso_blocktext, .mso_textleft1, .mso_FieldValue  {
+		font-family : Tahoma, Arial, sans-serif ;
+		font-size : 8.0pt;
+		text-align : left;
+		color : #000000
+	}
+
+	DIV.mso_sortheader, .mso_tla, .mso_clsa {
+		FONT-SIZE: 8.0pt;
+		text-transform : none;
+		text-decoration:none;
+		cursor:pointer;
+	}
+
+	DIV.mso_sortheader:hover, DIV.mso_sortheader:active,.mso_tla:hover, .mso_tla:active, .mso_clsa:hover, .mso_clsa:active  {
+		FONT-SIZE: 8.0pt;
+		text-transform : none;
+		text-decoration:underline;
+		cursor:pointer;
+		text-align : LEFT;
+	}
+
+	A.mso_ch-s, A.mso_ch-s:active, A.mso_ch-s:visited {
+		color: #000099;
+		font-weight: bold;
+		font-size: 100%;
+		text-decoration:none;
+		border:0;
+		padding-right:2px;
+	}
+
+	A.mso_ch-s:hover {
+		color: #ff9900;
+		font-weight: bold;
+		font-size: 100%;
+		text-decoration:underline;
+		border:0;
+		padding-right:2px;
+	}
+
+	A.mso_fd, A.mso_fd:active {
+		font-size:100%;
+		color: #000099;
+		FONT-FAMILY:  Tahoma;
+		text-decoration:none;
+	}
+
+	A.mso_fd:hover {
+		font-size:100%;
+		color: #ff9900;
+		FONT-FAMILY:  Tahoma;
+		text-decoration:underline;
+	}
+
+	.mso_thl, .mso_subviewhead, .mso_tablehead {
+		text-align: left;
+		vertical-align:bottom;
+		padding-bottom:1px;
+		padding-left:1px;
+	}
+
+	.mso_thl-o {
+		text-align: left;
+		vertical-align:bottom;
+		padding-bottom:1px;
+		padding-left:1px;
+	}
+
+	.mso_thr {
+		text-align: RIGHT;
+		vertical-align:bottom;
+		padding-bottom:1px;
+	}
+
+	.mso_thr-o {
+		text-align: RIGHT;
+		vertical-align:bottom;
+		padding-bottom:1px;
+	}
+
+	.mso_thc {
+		text-align: center;
+		vertical-align:bottom;
+		padding-bottom:1px;
+	}
+
+	.mso_thc-o {
+		text-align: CENTER;
+		vertical-align:bottom;
+		padding-bottom:1px;
+	}
+
+	.mso_chc-zs, .mso_ch-zs, .mso_chc, .mso_ch, .mso_chc-1st, .mso_ch-1st, .mso_ch-zs-1st, .mso_chc-zs-1st {
+		FONT-FAMILY:  Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		background-color: #D7DFEF;
+		text-align: CENTER;
+		padding-left:5px;
+		padding-right:5px;
+		vertical-align:middle;
+		border-bottom: 1px solid #FFFFFF;
+		border-right: 0px solid #D7DFEF;
+		border-left: 1px solid #FFFFFF;
+	}
+
+	.mso_ch-zs-o {
+		FONT-FAMILY:  Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		background-color: #D7DFEF;
+		text-align: CENTER;
+		padding-left:5px;
+		padding-right:5px;
+		vertical-align:middle;
+		border-bottom: 1px solid #FFFFFF;
+		border-right: 0px solid #D7DFEF;
+	}
+
+	.mso_chl-zs, .mso_chl-zs-1st, .mso_chl-1st, .mso_chl{
+		FONT-FAMILY:  Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		background-color: #D7DFEF;
+		text-align: LEFT;
+		padding-left:5px;
+		padding-right:5px;
+		vertical-align:middle;
+		border-bottom: 1px solid #FFFFFF;
+		border-right: 0px solid #D7DFEF;
+		border-left: 1px solid #FFFFFF;
+	}
+	.mso_chr-zs, .mso_chr-zs-1st, .mso_chr-1st, .mso_chr{
+		FONT-FAMILY:  Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		background-color: #D7DFEF;
+		text-align: RIGHT;
+		padding-left:5px;
+		padding-right:5px;
+		vertical-align:middle;
+		border-bottom: 1px solid #FFFFFF;
+		border-right: 0px solid #D7DFEF;
+		border-left: 1px solid #FFFFFF;
+	}
+
+	.mso_chl-a, .mso_chl-zs-a, .mso_chl-zs-1st-a{
+		FONT-FAMILY:  Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		background-color: #B2B2E0;
+		text-align: LEFT;
+		padding-left:5px;
+		padding-right:5px;
+		vertical-align:middle;
+		border-bottom: 1px solid #FFFFFF;
+		border-right: 0px solid #B2B2E0;
+		border-left: 1px solid #FFFFFF;
+	}
+
+	.mso_chr-a, .mso_chr-zs-a, .mso_chr-zs-1st-a{
+		FONT-FAMILY:  Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		background-color: #B2B2E0;
+		text-align: RIGHT;
+		padding-left:11px;
+		padding-right:11px;
+		vertical-align:middle;
+		xborder-top: 3px solid #FFFFFF;
+		border-bottom: 1px solid #FFFFFF;
+		border-right: 0px solid #B2B2E0;
+		border-left: 1px solid #FFFFFF;
+	}
+
+
+	.mso_chc-a, .mso_ch-zs-a, .mso_chc-zs-a, .mso_ch-zs-1st-a, .mso_chc-zs-1st-a {
+		FONT-FAMILY:  Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		background-color: #B2B2E0;
+		text-align: CENTER;
+		padding-left:11px;
+		padding-right:11px;
+		vertical-align:middle;
+		xborder-top: 3px solid #FFFFFF;
+		border-bottom: 1px solid #FFFFFF;
+		border-right: 0px solid #B2B2E0;
+		border-left: 1px solid #FFFFFF;
+	}
+
+	.mso_ch-2l, columnheader-2ndlevel{
+		font-size:90%;
+	}
+
+	.mso_chls, .mso_chl-sort, .mso_columnheaderleft-sort  {
+		color: #7f7f7f;
+		font-weight: bold;
+		font-size:8.0pt;
+		background-color: #EEEEEE;
+		text-align: LEFT;
+		padding-left:11px;
+		padding-right:11px;
+	}
+
+	.mso_chrs, .mso_chr-sort, .mso_columnheaderright-sort  {
+		color: #7f7f7f;
+		font-weight: bold;
+		font-size:8.0pt;
+		background-color: #EEEEEE;
+		text-align: RIGHT;
+		padding-left:11px;
+		padding-right:11px;
+	}
+
+	.mso_chcs, .mso_chc-sort, .mso_columnheadercenter-sort  {
+		color: #7f7f7f;
+		font-weight: bold;
+		font-size:8.0pt;
+		background-color: #EEEEEE;
+		text-align: CENTER;
+		height:16px;
+		padding-left:11px;
+		padding-right:11px;
+	}
+
+	.mso_shl, .mso_summarydataleft{
+		background-color:#889BBB;
+		color: #FFFFFF;
+		font-family: Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		text-align: LEFT;
+		border-bottom:1px solid #FFFFFF;
+		border-left:1px solid #FFFFFF;
+		padding-left:3px;
+		padding-right:2px;
+
+	}
+
+	.mso_shr, .mso_summarydataright{
+		background-color:#889BBB;
+		color: #FFFFFF;
+		font-family: Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		text-align: RIGHT;
+		border-bottom:1px solid #FFFFFF;
+		border-left:1px solid #FFFFFF;
+		padding-left:3px;
+		padding-right:2px;
+
+	}
+
+	.mso_shc, .mso_summarydatacenter {
+		background-color:#889BBB;
+		color: #FFFFFF;
+		font-family: Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		text-align: CENTER;
+		border-bottom:1px solid #FFFFFF;
+		border-left:1px solid #FFFFFF;
+		padding-left:3px;
+		padding-right:2px;
+
+	}
+
+	.mso_ghl, .mso_groupheaderleft {
+		background-color:#ABC4EA;
+		color: #000000;
+		font-family: Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		text-align: LEFT;
+		border-bottom:1px solid #FFFFFF;
+		border-left:1px solid #FFFFFF;
+		padding-left:5px;
+		padding-right:5px;
+		/* height:16px; */
+	}
+
+	.mso_ghr, .mso_groupheaderright {
+		background-color:#ABC4EA;
+		color: #000000;
+		font-family: Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		text-align: RIGHT;
+		border-bottom:1px solid #FFFFFF;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_ghc, .mso_groupheadercenter {
+		background-color:#ABC4EA;
+		color: #000000;
+		font-family: Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		text-align: CENTER;
+		border-bottom:1px solid #FFFFFF;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_ghl-c, .mso_groupheaderleft-columns {
+		background-color:#ABC4EA;
+		color: #000000;
+		font-family: Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		text-align: LEFT;
+		border-bottom:1px solid #FFFFFF;
+		border-left:1px solid #FFFFFF;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_ghr-c, .mso_groupheaderleft-columns {
+		background-color:#ABC4EA;
+		color: #000000;
+		font-family: Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		text-align: RIGHT;
+		border-bottom:1px solid #FFFFFF;
+		border-left:1px solid #FFFFFF;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_ghc-c, .mso_groupheadercenter-columns {
+		background-color:#ABC4EA;
+		color: #000000;
+		font-family: Tahoma;
+		font-weight: bold;
+		font-size:8.0pt;
+		text-align: CENTER;
+		border-bottom:1px solid #FFFFFF;
+		border-left:1px solid #FFFFFF;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_sshl, .mso_subsectioheaderleft {
+		background-color:#C3CDDD;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		text-align: LEFT;
+		border-bottom:1px solid #FFFFFF;
+		border-left:1px solid #FFFFFF;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_sshl-o, .mso_subsectioheaderleft-open {
+		background-color:#C3CDDD;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		text-align: LEFT;
+		border-bottom:1px solid #FFFFFF;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_sshr, .mso_subsectionheaderleft {
+		background-color:#C3CDDD;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		text-align: RIGHT;
+		border-bottom:1px solid #FFFFFF;
+		border-left:1px solid #FFFFFF;
+		padding-left:5px;
+		padding-right:5px;
+	}
+	.mso_sshr-o, .mso_subsectionheaderleft-open {
+		background-color:#C3CDDD;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		text-align: RIGHT;
+		border-bottom:1px solid #FFFFFF;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_sshc, .mso_subsectionheadercenter {
+		background-color:#C3CDDD;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		text-align: CENTER;
+		border-bottom:1px solid #FFFFFF;
+		border-left:1px solid #FFFFFF;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_sshc-o, .mso_subsectionheadercenter-open {
+		background-color:#C3CDDD;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		text-align: CENTER;
+		border-bottom:1px solid #FFFFFF;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_ssd, .mso_subsectiodata {
+		background-color:#C3CDDD;
+		border-bottom:1px solid #FFFFFF;
+		border-left:1px solid #FFFFFF;
+		font-weight:normal;
+	}
+
+	.mso_ssd-s, .mso_subsectiodata-selected {
+		background-color:#D3ECA5;
+		border-bottom:1px solid #FFFFFF;
+		border-left:1px solid #FFFFFF;
+		font-weight:bold;
+	}
+
+	TD.mso_grhl-t {
+		padding-left:10px;
+		padding-right:15px;
+		font-weight : normal;
+		background-color : #eeeeee;
+		border-left: 1px solid #ffffff;
+		xborder-top: 1px solid #ffffff;
+		border-bottom: 1px solid #ffffff;
+		text-align:LEFT;
+	}
+
+	TD.mso_grhl {
+		padding-left:10px;
+		padding-right:15px;
+		font-weight : normal;
+		background-color : #eeeeee;
+		border-right: 1px solid #ffffff;
+		border-bottom: 1px solid #ffffff;
+		text-align:LEFT;
+	}
+
+	.mso_rhl, .mso_sidelabel  {
+		COLOR: #000000;
+		FONT-FAMILY: Tahoma, Verdana, sans-serif;
+		FONT-SIZE: 8.0pt;
+		FONT-WEIGHT: normal;
+		TEXT-ALIGN: LEFT;
+		padding-left:3px;
+		padding-right:2px;
+	}
+
+	.mso_rhr,.mso_sidelabelright {
+		COLOR: #000000;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		FONT-WEIGHT: normal;
+		TEXT-ALIGN: RIGHT;
+		padding-left:3px;
+		padding-right:2px;
+
+	}
+
+	.mso_rhc,.mso_sidelabelcenter  {
+		COLOR: #000000;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		FONT-WEIGHT: normal;
+		TEXT-ALIGN: CENTER;
+		padding-left:3px;
+		padding-right:3px;
+	}
+
+	.mso_rh, .mso_rowheader{
+		background-color:#EEEEEE;
+		border-left:1px solid #FFFFFF;
+		border-bottom:1px solid #FFFFFF;
+	}
+		
+	.mso_rhr_ratio{
+		background-color:#EEEEEE;
+		border-left:1px solid #FFFFFF;
+		border-bottom:1px solid #FFFFFF;
+		TEXT-ALIGN: RIGHT;
+
+	}
+
+	.mso_rhl-s  {
+		COLOR: #000000;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		FONT-WEIGHT: bold;
+		TEXT-ALIGN: LEFT;
+		padding-left:5px;
+		padding-right:2px;
+	}
+
+	.mso_rhr-s  {
+		COLOR: #000000;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		FONT-WEIGHT: bold;
+		TEXT-ALIGN: RIGHT;
+		padding-left:3px;
+		padding-right:2px;
+	}
+
+	.mso_rhc-s  {
+		COLOR: #000000;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		FONT-WEIGHT: bold;
+		TEXT-ALIGN: CENTER;
+		padding-left:3px;
+		padding-right:2px;
+	}
+
+	.mso_rh-g, .mso_rowheader-generic{
+		FONT-WEIGHT: normal;
+	}
+
+	.mso_rh-s-g, .mso_rowheader-strong-generic{
+		FONT-WEIGHT: bold;
+	}
+
+	.mso_qrhl, .mso_quoterowheaderleft, .mso_sidelabel{
+		COLOR: #333333;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		FONT-WEIGHT: bold;
+		TEXT-ALIGN: LEFT;
+		padding-left:3px;
+		padding-right:2px;
+	}
+
+	.mso_qrhr, .mso_quoterowheaderright{
+		COLOR: #333333;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		FONT-WEIGHT: bold;
+		TEXT-ALIGN: RIGHT;
+		padding-left:3px;
+		padding-right:2px;
+
+	}
+
+	.mso_qrhc, .mso_quoterowheadercenter{
+		COLOR: #333333;
+		FONT-FAMILY: Tahoma;
+		FONT-SIZE: 8.0pt;
+		FONT-WEIGHT: bold;
+		TEXT-ALIGN: CENTER;
+		padding-left:3px;
+		padding-right:2px;
+	}
+
+	.mso_fhl {
+		font-size: 7.0pt;
+		font-weight : normal;
+		color: #000000;
+		text-align : LEFT;
+	}
+
+	.mso_fhr {
+		font-size: 7.0pt;
+		font-weight : normal;
+		color: #000000;
+		text-align : RIGHT;
+	}
+
+	.mso_fhc {
+		font-size: 7.0pt;
+		font-weight : normal;
+		color: #000000;
+		text-align : CENTER;
+	}
+
+	.mso_tdl {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		color : #000000;
+		text-align: LEFT;
+		padding-left:5px;
+		padding-right:5px;
+		text-decoration: none;
+	}
+
+	.mso_tdr {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		color : #000000;
+		text-align : RIGHT;
+		padding-left:5px;
+		padding-right:5px;
+		text-decoration: none;
+	}
+
+	.mso_tdc {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		color : #000000;
+		text-align : center;
+		padding-left:5px;
+		padding-right:5px;
+		text-decoration: none;
+	}
+
+	.mso_tdl-s {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight : bold;
+		color : #000000;
+		text-align: LEFT;
+		padding-left:5px;
+		padding-right:5px;
+		text-decoration: none;
+	}
+
+	.mso_tdr-s {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight : bold;
+		color : #000000;
+		text-align : RIGHT;
+		padding-left:5px;
+		padding-right:5px;
+		text-decoration: none;
+	}
+
+	.mso_tdc-s {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight : bold;
+		color : #000000;
+		text-align : center;
+		padding-left:11px;
+		padding-right:55px;
+		text-decoration: none;
+	}
+
+	/*** number formats ***/
+	.mso_ndl {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : left;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)";
+	}
+
+	.mso_ndr  {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : right;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)";
+	}
+
+	.mso_ndc {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : CENTER;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)";
+	}
+
+	/* integers */
+	.mso_ndl-i {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : left;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)";
+	}
+
+	.mso_ndr-i {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : right;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)";
+	}
+
+	.mso_ndc-i {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : CENTER;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)";
+	}
+
+	/* percents */
+	.mso_ndl-p {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : left;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\%\;\[Red\]\\\(\#\,\#\#0\.000\\\)\%";
+	}
+
+	.mso_ndr-p  {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : right;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\%\;\[Red\]\\\(\#\,\#\#0\.000\\\)\%";
+	}
+
+	.mso_ndc-p {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : CENTER;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\%\;\[Red\]\\\(\#\,\#\#0\.000\\\)\%";
+	}
+
+	/* negatives */
+	.mso_ndl-n {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : left;
+		color: red;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)";
+	}
+
+	.mso_ndr-n  {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : right;
+		color: red;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)";
+	}
+
+	.mso_ndc-n {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : CENTER;
+		color: red;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)";
+	}
+
+	/* bold numbers */
+	.mso_ndl-s {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		text-align : left;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)";
+	}
+
+	.mso_ndr-s  {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		text-align : right;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)";
+	}
+
+	.mso_ndc-s {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		text-align : CENTER;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)";
+	}
+
+	/* bold integers */
+	.mso_ndl-s-i {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		text-align : left;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)";
+	}
+
+	.mso_ndr-s-i {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		text-align : right;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)";
+	}
+
+	.mso_ndc-s-i {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		text-align : CENTER;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)";
+	}
+
+	/* bold percents */
+	.mso_ndl-s-p {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		text-align : left;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\%\;\[Red\]\\\(\#\,\#\#0\.00\\\)\%";
+	}
+
+	.mso_ndr-s-p {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		text-align : right;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\%\;\[Red\]\\\(\#\,\#\#0\.000\\\)\%";
+	}
+
+	.mso_ndc-s-p {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		text-align : CENTER;
+		color: #000000;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\%\;\[Red\]\\\(\#\,\#\#0\.000\\\)\%";
+	}
+
+	/* bold negative numbers */
+	.mso_ndl-s-n {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		text-align : left;
+		color: red;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\)";
+	}
+
+	.mso_ndr-s-n  {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		text-align : right;
+		color: red;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)";
+	}
+
+	.mso_ndc-s-n {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		text-align : CENTER;
+		color: red;
+		padding-left:5px;
+		padding-right:5px;
+		mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)";
+	}
+
+	.mso_ihnl, .mso_individualshighlitednameleft{
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : LEFT;
+		color: #669313;
+		padding-left:5px;
+		padding-right:5px;
+
+	}
+
+	.mso_ihnr, .mso_individualshighlitednameright{
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : RIGHT;
+		color: #669313;
+		padding-left:5px;
+		padding-right:5px;
+
+	}
+
+	.mso_ihnc, .mso_individualshighlitednamecenter{
+		font-size:8.0pt;
+		font-family: Tahoma;
+		text-align : CENTER;
+		color: #669313;
+		padding-left:5px;
+		padding-right:5px;
+
+	}
+
+	.mso_idl, .mso_inputdataleft {
+		text-align : left;
+		padding-left:2px;
+		padding-right:5px;
+	}
+
+	.mso_idr, .mso_inputdataright  {
+		text-align : right;
+		padding-left:5px;
+		padding-right:2px;
+	}
+
+	.mso_idc, .mso_inputdatacenter {
+		text-align : CENTER;
+		padding-left:2px;
+		padding-right:2px;
+	}
+
+	.mso_cdl {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		color: Red;
+		text-align: LEFT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_strong{
+		font-weight:bold;
+	}
+
+	.mso_cdr, .mso_cd-o, .mso_calcdata-odd, .mso_numericcalcdata, .mso_numericdataneg,.mso_n-cd-o {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		color: Red;
+		text-align: RIGHT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_cdc  {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		color: Red;
+		text-align: CENTER;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_cdl-s {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		color: Red;
+		text-align: LEFT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_cdr-s{
+		font-size:8.0pt;
+		font-family: Tahoma;
+		color: Red;
+		text-align: RIGHT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_cdc-s  {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight:bold;
+		color: Red;
+		text-align: CENTER;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_god,.mso_grayedoutdata {
+		font-size: 8.0pt;
+		font-family: Tahoma;
+		color: gray;
+	}
+
+	.mso_tpdl {
+		font-family: Tahoma;
+		font-size:8.0pt;
+		color: #000000;
+		text-align : LEFT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_tpdr {
+		font-family: Tahoma;
+		font-size:8.0pt;
+		color: #000000;
+		text-align : RIGHT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_tpdc  {
+		font-family: Tahoma;
+		font-size:8.0pt;
+		color: #000000;
+		text-align : CENTER;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_tpdl-s {
+		font-family: Tahoma;
+		font-weight:bold;
+		font-size:8.0pt;
+		color: #000000;
+		text-align : LEFT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_tpdr-s {
+		font-family: Tahoma;
+		font-weight:bold;
+		font-size:8.0pt;
+		color: #000000;
+		text-align : RIGHT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_tpdc-s  {
+		font-family: Tahoma;
+		font-weight:bold;
+		font-size:8.0pt;
+		color: #000000;
+		text-align : CENTER;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_ldl {
+		font-family:Tahoma;
+		font-size:8.0pt;
+		text-align : LEFT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_ldr {
+		font-family:Tahoma;
+		font-size:8.0pt;
+		text-align : RIGHT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_ldc {
+		font-family:Tahoma;
+		font-size:8.0pt;
+		text-align : CENTER;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_ldl-s {
+		font-family:Tahoma;
+		font-size:8.0pt;
+		font-weight:bold;
+		text-align : LEFT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_ldr-s {
+		font-family:Tahoma;
+		font-size:8.0pt;
+		font-weight:bold;
+		text-align : RIGHT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	.mso_ldc-s {
+		font-family:Tahoma;
+		font-size:8.0pt;
+		font-weight:bold;
+		text-align : CENTER;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	/* Standard date data left */
+	.mso_ddl {
+		font-size:8.0pt;
+		COLOR: #000000;
+		FONT-FAMILY: Tahoma;
+		text-align : left;
+		padding-left:5px;
+		padding-right:5px;
+	}
+	/* Standard date data right, Be sure this font is mono-typed, FI Web Views */
+	.mso_ddr, .mso_date {
+		font-size:8.0pt;
+		COLOR: #000000;
+		FONT-FAMILY:  Tahoma;
+		text-align : right;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	/* Standard date data center */
+	.mso_ddc {
+		font-size:8.0pt;
+		COLOR: #000000;
+		FONT-FAMILY:  Tahoma;
+		text-align : center;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	/* Standard BOLDED date data left */
+	.mso_ddl-s {
+		font-size:8.0pt;
+		COLOR: #000000;
+		FONT-FAMILY: Tahoma;
+		font-weight:bold;
+		text-align : left;
+		padding-left:5px;
+		padding-right:5px;
+	}
+	/* Standard BOLDED date data right */
+	.mso_ddr-s, .mso_date-s {
+		font-size:8.0pt;
+		COLOR: #000000;
+		FONT-FAMILY:  Tahoma;
+		font-weight:bold;
+		text-align : right;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	/* Standard BOLDED date data center */
+	.mso_ddc-s {
+		font-size:8.0pt;
+		COLOR: #000000;
+		FONT-FAMILY:  Tahoma;
+		font-weight:bold;
+		text-align : center;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	/* date data left - for a news headline */
+	.mso_ddl-n {
+		font-size:8.0pt;
+		COLOR: #000000;
+		FONT-FAMILY:  Tahoma;
+		text-align : left;
+		padding-bottom : 6px;
+	}
+
+
+	/* Standard synopsis data left */
+	.mso_sdl, .mso_edl {
+		font-size:8.0pt;
+		font-family: Verdana;
+		color : #000000;
+		text-align: LEFT;
+		padding-left:5px;
+		padding-right:5px;
+		text-decoration: none;
+	}
+
+	/* Standard synopsis data right */
+	.mso_sdr {
+		font-size:8.0pt;
+		font-family: Verdana;
+		color : #000000;
+		text-align : RIGHT;
+		padding-left:5px;
+		padding-right:5px;
+		text-decoration: none;
+	}
+
+	/* Standard synopsis data center */
+	.mso_sdc {
+		font-size:8.0pt;
+		font-family: Verdana;
+		color : #000000;
+		text-align : center;
+		padding-left:5px;
+		padding-right:5px;
+		text-decoration: none;
+	}
+
+	/* Standard footer data left, RK */
+	.mso_fdl, .mso_footnote {
+		font-size: 7.0pt;
+		color: #000000;
+		FONT-FAMILY:  Tahoma;
+		text-align : LEFT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	/* Standard footer data right */
+	.mso_fdr {
+		font-size: 7.0pt;
+		color: #000000;
+		FONT-FAMILY:  Tahoma;
+		text-align : RIGHT;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	/* Standard footer data center */
+	.mso_fdc {
+		font-size: 7.0pt;
+		color: #000000;
+		FONT-FAMILY:  Tahoma;
+		text-align : CENTER;
+		padding-left:5px;
+		padding-right:5px;
+	}
+
+	/* ************ Misc generic table elements ****************** */
+
+	/* footer label left */
+	.mso_fll{
+		font-size: 7.0pt;
+		color: #000000;
+		FONT-FAMILY:  Tahoma;
+		text-align : LEFT;
+	}
+
+	/* footer label right */
+	.mso_flr{
+		font-size: 7.0pt;
+		color: #000000;
+		FONT-FAMILY:  Tahoma;
+		text-align : RIGHT;
+	}
+
+	/* footer label center */
+	.mso_flc{
+		font-size: 7.0pt;
+		color: #000000;
+		FONT-FAMILY:  Tahoma;
+		text-align : CENTER;
+	}
+
+	/* footer cell aligned left - solid Line top border */
+	TD.mso_fcl{
+		border-top: 1px solid #DDDDDD;
+		vertical-align : bottom;
+		text-align : LEFT;
+	}
+
+	/* footer cell aligned right - solid Line top border */
+	TD.mso_fcr{
+		border-top: 1px solid #DDDDDD;
+		vertical-align : bottom;
+		text-align : RIGHT;
+	}
+
+	/* footer cell aligned center - solid Line top border */
+	TD.mso_fcc{
+		border-top: 1px solid #DDDDDD;
+		vertical-align : bottom;
+		text-align : CENTER;
+	}
+
+	.mso_fieldset {
+		FONT-SIZE: 7pt;
+		font-weight : normal;
+		color : #CC9900;
+		text-transform : uppercase;
+		border-style : solid;
+		border-width : 1px;
+		border-color : #CC9900;
+	}
+
+	.mso_specialbkgrd {
+		background-color : #D6D3CE;
+		font-size : 8.0pt;
+		font-weight : normal;
+		color : Black;
+	}
+
+	/* Some RK uses it as a page header */
+	.mso_headline  {
+		color: #000000;
+		font-weight: 800;
+		font-size: 90%;
+	}
+
+	/* Used for positioning the thumbnail on a news headline (top news) */
+	.mso_news-thumbnail {
+		padding-right : 5px;
+		padding-top : 12px;
+	}
+
+	/* the news headline class (top news) */
+	.mso_newsheadline, .mso_newsheadline {
+		FONT-SIZE: 90%;
+		font-weight: bold;
+		COLOR: #000000;
+		FONT-FAMILY:  Tahoma, Arial, sans-serif ;
+		text-align : left;
+		position: relative;
+		top: -3px;
+	}
+
+	.mso_chartbkgrd {
+		background-color: #ECE8E3;
+		border-color: #FFFFCC #CCCC99 #CCCC99 #FFFFCC;
+		border-style: solid;
+		border-top-width: 1px;
+		border-right-width: 1px;
+		border-bottom-width: 1px;
+		border-left-width: 1px;
+	}
+
+	.mso_selectform, .mso_selectlist {
+		font-family: Verdana, sans-serif;
+		color: #000000;
+		background-color: #E9E0EB;
+		font-style: normal;
+		font-weight: normal;
+		padding: 2px;
+	}
+
+	.mso_calendar {
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 8.0pt;
+		text-align: right;
+		border: 1px #CCCCCC solid
+	}
+
+	.mso_calendarhead {
+		font-weight: bold;
+		color: #FFFFFF;
+		background-color: #999999;
+		text-align: center
+	}
+
+	.mso_sampleBackground {
+		background-image: url(SampleTile.mso_gif);
+	}
+
+	.mso_raisedtextbox  {
+		color: #000000;
+		font-size: 8.0pt;
+		background-color: #FFFFFF;
+		border-style: solid;
+		border-bottom-width: 1px;
+		border-top-width: 0px;
+		border-right-width : 1px;
+		border-left-width : 0px;
+		border-bottom-color: #000000;
+		border-right-color: #000000;
+	}
+
+	.mso_dropdownmenu {
+		color: #000000;
+		font-size: 8.0pt;
+		background-color: #ffffff;
+		padding-right:2px;
+		font-family: Verdana;
+		font-weight : normal;
+
+	}
+
+
+	.mso_datasource {
+		text-align: right;
+	}
+
+	.mso_pib {
+		font-size: 8.0pt;
+		border-top-width: 1px;
+		border-right-width: 0px;
+		border-bottom-width: 1px;
+		border-left-width: 1px;
+		border-top-style: dotted;
+		border-right-style: none;
+		border-bottom-style: dotted;
+		border-left-style: none;
+	}
+
+	.mso_tld-c {
+		text-align : LEFT;
+		vertical-align : baseline;
+		margin-top: -12px;
+	}
+
+	.mso_tld-r, .mso_actionButtonIconSpan, .mso_abis {
+		text-align:right;
+		xpadding-right:1px;
+		padding-left:1px;
+		vertical-align:bottom;
+		padding-bottom:1px;
+		border-bottom:1px solid #9B9B9B;
+		width:100%
+	}
+
+	/* in subviewhead only if more than one alignment is needed */
+	.mso_tld-c {
+		text-align : CENTER;
+		vertical-align : baseline;
+		margin-top: -12px;
+	}
+
+	/* Newly created for images in the subviewhead cell */
+	IMG.mso_tli-r {
+		cursor: pointer;
+		margin: 1px;
+		/*padding-right:8px;
+		padding-top:4px; */
+		background-color: transparent;
+		vertical-align : top;
+	}
+
+	/* ******* End Of Table Template Specific Classes ******* */
+
+
+	/* Input Selectors */
+
+	INPUT.mso_disabled {
+		background-color: #fcfcfc;
+		color: #7f7f7f;
+	}
+
+	INPUT.mso_modal {
+		background-color: Yellow;
+	}
+
+	INPUT.mso_radioButton, INPUT.mso_rb  {
+		font-size : 8.0pt;
+		font-weight : bold;
+		color : #000000;
+	}
+
+	.mso_radioText, .mso_radiotext {
+		font-size : 8.0pt;
+		font-weight : bold;
+		color : #000000;
+		vertical-align: baseline;
+		position: relative;
+		top: -1px;
+	}
+
+	SELECT.mso_disabled {
+		background-color: #fcfcfc;
+		color: #7f7f7f;
+	}
+
+	INPUT.mso_acdd, INPUT.mso_activecalculateddatadisabled {
+		font-style: italic;
+		background-color: #fcfcfc;
+	}
+	/* Active calculated data */
+	INPUT.mso_acd, INPUT.mso_activecalculateddata {
+		font-style: italic;
+	}
+
+	input.mso_textBox, input.mso_textbox, input.mso_textboxl  {
+		font-size : 8.0pt;
+		font-family: Tahoma;
+		font-weight : normal;
+		color : #000000;
+		text-align: LEFT;
+		vertical-align: middle;
+		border:1px solid #7F9DB9;
+	}
+
+	input.mso_textboxr {
+		font-size : 8.0pt;
+		font-family: Tahoma;
+		font-weight : normal;
+		color : #000000;
+		text-align: RIGHT;
+		vertical-align: bottom;
+	}
+
+	input.mso_textboxndr {
+		font-size: 8.0pt;
+		font-family: Tahoma;
+		text-align : RIGHT;
+		color: #000000;
+		vertical-align: bottom;
+	}
+
+	input.mso_textboxndl {
+		font-size: 8.0pt;
+		font-family: Tahoma;
+		text-align : LEFT;
+		color: #000000;
+		vertical-align: bottom;
+	}
+
+	input.mso_textboxddr {
+		FONT-SIZE: 8.0pt;
+		COLOR: #000000;
+		FONT-FAMILY:  Tahoma;
+		text-align : RIGHT;
+		vertical-align: bottom;
+	}
+
+	input.mso_textboxddl {
+		FONT-SIZE: 8.0pt;
+		COLOR: #000000;
+		FONT-FAMILY:  Tahoma;
+		text-align : LEFT;
+		vertical-align: bottom;
+	}
+
+	.mso_button {
+		color: #000099;
+		font-family:Tahoma;
+		font-size: 8.0pt;
+		background-color: #94AEC6;
+		z-index: 2;
+		border-top-width: 1px;
+		border-right-width: 1px;
+		border-bottom-width: 1px;
+		border-left-width: 1px;
+		border-top-style: solid;
+		border-right-style: solid;
+		border-bottom-style: solid;
+		border-left-style: solid;
+		border-top-color: #99CCFF;
+		border-right-color: #003366;
+		border-bottom-color: #003366;
+		border-left-color: #99CCFF;
+		cursor: pointer;
+	}
+
+	INPUT.mso_button1, BUTTON.mso_button1 {
+		font-family:Tahoma;
+		font-size:11px;
+		color: #000099;
+		padding-left:3px;
+		padding-right:3px;
+		text-align:center;
+		cursor:pointer;
+	}
+
+	INPUT.mso_button1-d, BUTTON.mso_button1-d {
+		font-family:Tahoma;
+		font-size:11px;
+		color: #000099;
+		padding-left:3px;
+		padding-right:3px;
+		text-align:center;
+		cursor:default;
+	}
+
+	INPUT.mso_button1-b, INPUT.mso_button1-bold {
+		font-family:Tahoma;
+		font-size:11px;
+		color: #000099;
+		padding-left:3px;
+		padding-right:3px;
+		font-weight:bold;
+		text-align:center;
+		cursor:pointer;
+	}
+
+	INPUT.mso_button1-b-d, INPUT.mso_button1-bold-disabled {
+		font-family:Tahoma;
+		font-size:11px;
+		color: #000099;
+		padding-left:7px;
+		padding-right:7px;
+		font-weight:bold;
+		text-align:center;
+		cursor:default;
+	}
+
+	DIV.mso_chls, SPAN.mso_chls, DIV.mso_chrs, SPAN.mso_chrs, DIV.mso_chcs, SPAN.mso_chcs {
+		cursor: pointer;
+		vertical-align: bottom;
+		border:0;
+		margin:0;
+	}
+
+	IMG.mso_button {
+		cursor: pointer;
+		align: absmiddle;
+		border:0;
+		margin:0;
+	}
+
+	IMG.mso_sort {
+	border:none;
+	}
+
+	/* FI Web views specific classes */
+
+	@media print {
+		.mso_sOverflowDIV {OVERFLOW:visible; WIDTH:100%;}
+	}
+
+	@media screen {
+		.mso_sOverflowDIV {OVERFLOW:auto; WIDTH:100%; }
+	}
+
+	/* should key data bolding be hard coded? */
+	DIV.mso_keydata  {
+		font-weight: bold;
+	}
+
+	/* End of FI specific classes */
+
+
+	/* ***** Newest classes for templates - need to document ***** */
+	.mso_navResults {
+		background-color: #E5E9EF;
+		font-size : 7.0pt;
+		font-family: Verdana;
+		font-weight : bold;
+		color : #000000;
+		text-align: LEFT;
+		padding-right:3px;
+		padding-left:3px;
+		border-bottom: 1px solid #FFFFFF;
+		border-left: 1px solid #FFFFFF;
+	}
+
+	.mso_navControls {
+		text-align: RIGHT;
+		padding-right:3px;
+		vertical-align:middle;
+		border-bottom: 1px solid #FFFFFF;
+		xborder-top: 1px solid #FFFFFF;
+	}
+	/* Navigation row for components with 2 tables incapsulated within a fieldset */
+	.mso_navRow-d {
+		background-color: #E5E9EF;
+		border-left:1px solid #FFFFFF;
+	}
+
+	.mso_navRow {
+		background-color: #E5E9EF;
+		vertical-align : middle;
+		border-bottom: 1px solid #FFFFFF;
+	}
+	TABLE.mso_innerInner-l{
+		margin-left:10px;
+	}
+	/* These 2 are for market data template left and right inner tables for border style */
+	TABLE.mso_inner-l, TABLE.mso_inner-left{
+		border-right:1px solid #DDDDDD;
+	}
+
+	TABLE.mso_inner-r, TABLE.mso_inner-right{
+		border-left:1px solid #DDDDDD;
+	}
+
+	/* Navigation row for components with 1 table incapsulated within a fieldset */
+	TR.mso_navRow {
+		/*height:28px;*/
+	}
+
+	/* for positioning of the seperator in the inter-component navigation */
+	SPAN.mso_navBars {
+		vertical-align:top;
+		position:relative;
+		top:1px;
+	}
+
+	DIV.mso_rsnl, DIV.mso_resultssetnavigationlinks{
+		position:relative;
+		top:-2px;
+	}
+
+	/* for positioning of the input row at the top of a component (if applicable)  */
+	.mso_inputRow  {
+		background-color: #E5E9EF;
+		position: relative;
+		height: 31px;
+		vertical-align:middle;
+	}
+	/*
+	A, A:active, A:visited{
+		font-family: Tahoma;
+		font-weight : normal;
+		color : #000099;
+		text-decoration:none;
+	}
+
+	A:hover{
+		font-family: Tahoma;
+		font-weight : normal;
+		color : #ff9900;
+		text-decoration:underlined;
+	}
+	*/
+	a.mso_cn, a.mso_componentnavigation, a.mso_cn:active, , a.mso_cn:visited {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight : bold;
+		color : #000099;
+	}
+	a.mso_cn:hover, a.mso_componentnavigation:hover {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight : bold;
+		color: #ff9900;
+	}
+
+	a.mso_cn-d, a.mso_cn-d:hover, a.mso_cn-d:active, a.mso_componentnavigation-disabled {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight : bold;
+		color: #CCCCCC;
+		cursor:default;
+		text-decoration:none;
+	}
+
+	a.mso_cn-s, a.mso_cn-s:hover, a.mso_cn-s:active, a.mso_componentnavigation-selected {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight : bold;
+		color: #000000;
+		cursor:default;
+		text-decoration:none;
+	}
+
+	a.mso_cn1, a.mso_componentnavigation1, a.mso_cn1:visited, a.mso_cn1:active {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight : normal;
+		color : #000099;
+		text-decoration : none;
+	}
+
+	a.mso_cn1:hover, a.mso_componentnavigation1:hover {
+		font-size:8.0pt;
+		font-family: Tahoma;
+		font-weight : normal;
+		color: #ff9900;
+	}
+
+	a.mso_gl, a.mso_genericlink, a.mso_gl:visited, a.mso_gl:active {
+		color : #000099;
+		text-decoration : none;
+	}
+
+	a.mso_gl:hover, a.mso_genericlink:hover {
+		color: #ff9900;
+		text-decoration:underline;
+	}
+
+	a.mso_gl-b, a.mso_genericlink-bold, a.mso_gl-b:visited, a.mso_gl-b:active {
+		color : #000099;
+		text-decoration : none;
+		font-weight:bold;
+	}
+
+	a.mso_gl-b:hover, a.mso_genericlink-bold:hover {
+		color: #ff9900;
+		text-decoration:underline;
+		font-weight:bold;
+	}
+
+	a.mso_ld, a.mso_linkdata, a.mso_ld:visited, a.mso_ld:active {
+		color : #000099;
+		font-weight:normal;
+		text-decoration : none;
+	}
+
+	a.mso_ld:hover, a.mso_linkdata:hover {
+		color: #ff9900;
+		font-weight:normal;
+		text-decoration:underline;
+	}
+
+	a.mso_ld-s, a.mso_linkdata-strong, a.mso_ld-s:visited, a.mso_ld-s:active {
+		color : #000099;
+		font-weight:bold;
+		text-decoration : none;
+		font-weight:bold;
+	}
+
+	a.mso_ld-s:hover, a.mso_linkdata-s:hover {
+		color: #ff9900;
+		font-weight:bold;
+		text-decoration:underline;
+		font-weight:bold;
+	}
+
+	.mso_rsn, a.mso_resultssetnavigation, a.mso_rsn:visited, a.mso_rsn:active {
+		font-size:7.0pt;
+		font-family: Tahoma;
+		font-weight : bold;
+		color : #666666;
+		text-decoration : none;
+	}
+
+	a.mso_rsn:hover, a.mso_resultssetnavigation:hover {
+		font-size:7.0pt;
+		font-family: Tahoma;
+		font-weight : bold;
+		color: #ff9900;
+	}
+
+	a.mso_rsn-a, a.mso_resultssetnavigation-active, a.mso_rsn-a:visited, a.mso_rsn-a:active, SPAN.mso_rsn-a {
+		font-size:7.0pt;
+		font-family: Tahoma;
+		font-weight : bold;
+		color : #000000;
+		text-decoration : none;
+		cursor:default;
+	}
+
+	a.mso_rsn-d, a.mso_rsn-d:hover, a.mso_rsn-d:active, a.mso_rsn-d:visited, a.mso_resultssetnavigation-disabled {
+		font-size:7.0pt;
+		font-family: Tahoma, Arial, sans-serif;
+		font-weight : bold;
+		color: #CCCCCC;
+		cursor:default;
+		text-decoration:none;
+	}
+
+	a.mso_cn1-d, a.mso_cn1-d:hover, a.mso_cn1-d:visited, a.mso_cn1-d:active {
+		font-size:7.0pt;
+		font-family: Tahoma;
+		font-weight : normal;
+		color : #CCCCCC;
+		cursor:default;
+		text-decoration: none;
+	}
+
+	.mso_cn-arrows-double, .mso_cn-a-d{
+		font-family: Tahoma;
+		font-size:90%;
+		font-weight : bold;
+		color : #FF6600;
+		text-decoration:none;
+	}
+
+	.mso_cn-arrows-single, .mso_cn-a-s {
+		font-weight : bold;
+		color : #FF6600;
+		text-decoration:none;
+	}
+
+	.mso_cn-arrows-double-d, .mso_cn-arrows-double-disabled{
+		font-family: Tahoma, Arial, sans-serif;
+		font-weight : normal;
+		color : #CCCCCC;
+		text-decoration:none;
+	}
+
+	.mso_cn-a-s-d,.mso_cn-arrows-single-d, .mso_cn-arrows-single-disabled {
+		font-family: Tahoma;
+		font-weight : bold;
+		color : #CCCCCC;
+		text-decoration:none;
+	}
+
+	.mso_pointer, .mso_hand {
+		cursor: pointer;
+		border:0px;
+	}
+
+	.mso_headerInfoRow {
+		height:17px;
+	}
+
+	.mso_hid {
+		font-size : 8.0pt;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight : normal;
+		background-color:#EEEEEE;
+		color : #666666;
+		text-align:right;
+		padding-right : 4px;
+		border-bottom:1px solid #FFFFFF;
+		border-left:1px solid #FFFFFF;
+	}
+	/* Group (header) cell, use for all GC except top one */
+	.mso_gc {
+		background-color:#DFDFDF;
+		border-top: solid 1px #ffffff;
+	}
+
+	.mso_gc-t {
+		background-color:#DFDFDF;
+	}
+
+	/* used as the top group header cell in the Transaction comp */
+	.mso_gc-t-s {
+		height : 19px;
+		vertical-align : bottom;
+		position: relative;
+		top: -4px;
+	}
+
+	.mso_gc1-d {
+		height : 30px;
+		position: relative;
+		vertical-align : bottom;
+		top: -4px;
+	}
+
+	/* color for chart cell for 360 consensus estimates */
+	TD.mso_chartcell {
+		background-color : #D3ECA5;
+		font-weight : normal;
+		border-bottom: 1px solid #ffffff;
+		border-left: 1px solid #ffffff;
+	}
+
+	TD.mso_chartcell-l {
+		background-color : #D3ECA5;
+		font-weight : normal;
+		border-bottom: 1px solid #ffffff;
+	}
+
+	.mso_lps, .mso_largepagesynopsis{
+		font-family:Verdana;
+		font-weight:bold;
+		font-size:85%;
+		text-align:left;
+		padding-left:8px;
+		padding-right:8px;
+		padding-top:1px;
+	}
+
+	.mso_smc, .mso_synopsismiddlecell{
+		background-color:#EFEFEF;
+		vertical-align:top;
+		border-right:1 solid #BDBDB8;
+		border-left:1 solid #BDBDB8;
+		border-bottom:1 solid #BDBDB8;
+	}
+
+	.mso_s1c1r, .mso_synopsis1stcell1strow{
+		background-color:#EFEFEF;
+		vertical-align:top;
+		border-left:1 solid #BDBDB8;
+		padding-top:6px;
+		height:1px;
+	}
+
+	.mso_s1c2r, .mso_synopsis1stcell2ndrow{
+		background-color:#EFEFEF;
+		vertical-align:top;
+		border-left:1 solid #BDBDB8;
+		border-bottom:1 solid #BDBDB8;
+	}
+
+	.mso_s1c2r-o, .mso_synopsis1stcell2ndrow-open{
+		background-color:#EFEFEF;
+		vertical-align:top;
+		border-bottom:1 solid #BDBDB8;
+	}
+
+	.mso_s2cmr, .mso_synopsis2ndcellmiddlerow{
+		background-color:#EFEFEF;
+		vertical-align:top;
+		border-left:1 solid #BDBDB8;
+		height:1px;
+		text-align:left;
+	}
+
+	.mso_s2cmr-o, .mso_synopsis2ndcellmiddlerow-open{
+		background-color:#EFEFEF;
+		vertical-align:top;
+		height:1px;
+		text-align:left;
+	}
+
+	.mso_s3c1r, .mso_synopsis3rdcell1strow{
+		background-color:#EFEFEF;
+		vertical-align:top;
+		border-right:1 solid #BDBDB8;
+		padding-top:6px;
+		height:1px;
+	}
+
+	.mso_s3c2r, .mso_synopsis3rdcell2ndrow{
+		background-color:#EFEFEF;
+		vertical-align:top;
+		border-right:1 solid #BDBDB8;
+		height:1px;
+		text-align:left;
+	}
+
+
+	.mso_s3cbr, .mso_synopsis3rdcellbottomrow{
+		background-color:#EFEFEF;
+		vertical-align:top;
+		border-right:1 solid #BDBDB8;
+		border-bottom:1 solid #BDBDB8;
+	}
+
+	.mso_srhl, .mso_synopsisrowheaderleft   {
+		COLOR: #333333;
+		FONT-FAMILY: Verdana;
+		FONT-SIZE: 7.0pt;
+		FONT-WEIGHT: bold;
+		TEXT-ALIGN: LEFT;
+		padding-left:4px;
+		padding-right:2px;
+	}
+
+	.mso_srhr, .mso_synopsisrowheaderright   {
+		COLOR: #333333;
+		FONT-FAMILY: Verdana;
+		FONT-SIZE: 7.0pt;
+		FONT-WEIGHT: bold;
+		TEXT-ALIGN: RIGHT;
+		padding-left:2px;
+		padding-right:2px;
+	}
+
+	.mso_srhc, .mso_synopsisrowheadercenter   {
+		COLOR: #333333;
+		FONT-FAMILY: Verdana;
+		FONT-SIZE: 7.0pt;
+		FONT-WEIGHT: bold;
+		TEXT-ALIGN: CENTER;
+		padding-left:2px;
+		padding-right:2px;
+	}
+	
+	.cell01r {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)"}
+	.cell01r0 {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)"}
+	.cell01r1 {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "\#\,\#\#0\.0_\)\;\[Red\]\\\(\#\,\#\#0\.0\\\)"}
+	.cell01r2 {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "\#\,\#\#0\.00_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\)"}
+	.cell01r3 {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)"}	
+	.cell01rPrecision0 {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "\#\,\#\#0\._\)\;\[Red\]\\\(\#\,\#\#0\.\\\)"}
+	.cell01rPrecision1 {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "\#\,\#\#0\.0_\)\;\[Red\]\\\(\#\,\#\#0\.0\\\)"}
+	.cell01rPrecision2 {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "\#\,\#\#0\.00_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\)"}
+	.cell01rPrecision3 {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)"}
+	.cell01rPrecision {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "\#\,\#\#0\.00_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\)"}
+	.cell01rprn {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)"}
+	.cell01rprn0 {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "0\.%;\[Red\]\\\(0\.%\\\)"}
+	.cell01rprn1 {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "0\.0%;\[Red\]\\\(0\.0%\\\)"}
+	.cell01rprn2 {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)"}
+	.cell01rprn3 {text-align:right;border-top:solid 1px #E5EBF4;mso-number-format: "0\.000%;\[Red\]\\\(0\.000%\\\)"}
+	.cell01rbr {text-align:right;border-right:solid 1px #CCC}
+	.cell01ri {text-align:right;font-style:italic;color:#4E6702;border-bottom:solid 1px #E5EBF4}
+	.cell01rb {background-color:#f2f4f9;text-align:right}
+	.cell01l {text-align:left;border-top:solid 1px #E5EBF4}
+	.cell01c {text-align:center;border-top:solid 1px #E5EBF4}
+	.cell01lbr {text-align:left;border-right:solid 1px #CCC;border-top:solid 1px #E5EBF4}
+	.cell01li {text-align:left;font-style:italic;color:#4E6702;border-bottom:solid 1px #E5EBF4}
+	.cell01libr {text-align:left;font-style:italic;color:#4E6702;border-right:solid 1px #CCC;border-bottom:solid 1px #E5EBF4}
+	.cell01lpl {padding-left:20px;background-color:#fff;border-top:1px solid #E5EBF4}
+	.col-exp-row-cell01r {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:right;;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)"}
+	.col-exp-row-cell01rb {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:right;font-weight:bold;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)"}
+	.col-exp-row-cell01r0 {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:right;;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)"}
+	.col-exp-row-cell01r1 {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:right;;mso-number-format: "\#\,\#\#0\.0_\)\;\[Red\]\\\(\#\,\#\#0\.0\\\)"}
+	.col-exp-row-cell01r2 {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:right;;mso-number-format: "\#\,\#\#0\.00_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\)"}
+	.col-exp-row-cell01r3 {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:right;;mso-number-format: "\#\,\#\#0\.00_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\)"}	
+	.col-exp-row-cell01rprn {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:right;;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)"}
+	.col-exp-row-cell01rprn0 {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:right;;mso-number-format: "0\%;\[Red\]\\\(0\%\\\)"}
+	.col-exp-row-cell01rprn1 {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:right;;mso-number-format: "0\.0%;\[Red\]\\\(0\.0%\\\)"}
+	.col-exp-row-cell01rprn2 {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:right;;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)"}
+	.col-exp-row-cell01rprn3 {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:right;;mso-number-format: "0\.000%;\[Red\]\\\(0\.000%\\\)"}
+	.col-exp-row-cell01ri {background-color:#e9eff6;border-bottom:solid 1px #E5EBF4;text-align:right;font-style:italic;color:#4E6702}
+	.col-exp-row-cell01l {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:left}
+	.col-exp-row-cell01lb {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:left;font-weight:bold}
+	.col-exp-row-cell01li {background-color:#e9eff6;border-bottom:solid 1px #E5EBF4;text-align:left;font-style:italic;color:#4E6702}
+	.col-exp-row-cell01lbr {background-color:#e9eff6;border-top:solid 1px #E5EBF4;text-align:left;border-right:solid 1px #CCC}
+	.col-exp-row-cell01libr {background-color:#e9eff6;border-bottom:solid 1px #E5EBF4;text-align:left;font-style:italic;color:#4E6702;border-right:solid 1px #CCC}
+	.col-exp-row-cell61r  {background-color:#e4ecf5;border-top:solid 1px #E5EBF4;text-align:right;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)"}
+	.col-exp-row-cell61r0 {background-color:#e4ecf5;border-top:solid 1px #E5EBF4;text-align:right;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)"}
+	.col-exp-row-cell61r1 {background-color:#e4ecf5;border-top:solid 1px #E5EBF4;text-align:right;mso-number-format: "\#\,\#\#0\.0_\)\;\[Red\]\\\(\#\,\#\#0\.0\\\)"}
+	.col-exp-row-cell61r2 {background-color:#e4ecf5;border-top:solid 1px #E5EBF4;text-align:right;mso-number-format: "\#\,\#\#0\.00_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\)"}
+	.col-exp-row-cell61r3 {background-color:#e4ecf5;border-top:solid 1px #E5EBF4;text-align:right;mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)"}
+	.col-exp-row-cell61rprn {background-color:#e4ecf5;border-top:solid 1px #E5EBF4;text-align:right;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)"}
+	.col-exp-row-cell61rprn0 {background-color:#e4ecf5;border-top:solid 1px #E5EBF4;text-align:right;mso-number-format: "0\%;\[Red\]\\\(0\%\\\)"}
+	.col-exp-row-cell61rprn1 {background-color:#e4ecf5;border-top:solid 1px #E5EBF4;text-align:right;mso-number-format: "0\.0%;\[Red\]\\\(0\.0%\\\)"}
+	.col-exp-row-cell61rprn2 {background-color:#e4ecf5;border-top:solid 1px #E5EBF4;text-align:right;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)"}
+	.col-exp-row-cell61rprn3 {background-color:#e4ecf5;border-top:solid 1px #E5EBF4;text-align:right;mso-number-format: "0\.000%;\[Red\]\\\(0\.000%\\\)"}
+		
+	.col-exp-row-cell61ri {background-color:#e4ecf5;border-bottom:solid 1px #E5EBF4;text-align:right;font-style:italic;color:#4E6702}
+	.col-exp-row-cell61l {background-color:#e4ecf5;border-top:solid 1px #E5EBF4;text-align:left}
+	.col-exp-row-cell61li {background-color:#e4ecf5;border-bottom:solid 1px #E5EBF4;text-align:left;font-style:italic;color:#4E6702}
+
+	.cell61c, .cell31c
+	{
+		border: 1px solid #fff;		
+		font-weight: bold;
+		text-align: center;
+		background-color: #abc4ea;
+	}
+	.cell61rPH{
+		border: 1px solid #fff;		
+		font-weight: bold;
+		text-align: right;
+		background-color: #abc4ea;
+	}
+	.cell61l {border:1px solid #fff;font-weight:bold;text-align:left;background-color: #abc4ea}
+	.cell61lb {font-weight:bold;text-align:left;background-color:#abc4ea}
+	
+	.cell41r {background-color:#e9eff6;text-align:right}
+	.cell41rprn {background-color:#e9eff6;text-align:right;mso-number-format: "0\.0%;\[Red\]\\\(0\.0%\\\)"}
+	.cell41rprn0 {background-color:#e9eff6;text-align:right;mso-number-format: "0\%;\[Red\]\\\(0\%\\\)"}
+	.cell41l {background-color:#e9eff6;text-align:left}
+	.cell41lbr {background-color:#e9eff6;text-align:left;border-right:solid 1px #CCC}
+	.cell41libr {background-color:#e9eff6;text-align:left;font-style:italic;color:#4E6702;border-right:solid 1px #CCC}
+	.cell71l {background-color:#c8d7de;text-align:left}
+	.cell71lbold {background-color:#c8d7de;text-align:left;font-weight:bold}
+	.cell71lbr {background-color:#c8d7de;text-align:left;border-right:solid 1px #CCC}
+	.cell71r {background-color:#c8d7de;text-align:right;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\);"}
+	.cell71r0 {background-color:#c8d7de;text-align:right;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\);"}
+	.cell71r1 {background-color:#c8d7de;text-align:right;mso-number-format: "\#\,\#\#0\.0_\)\;\[Red\]\\\(\#\,\#\#0\.0\\\);"}
+	.cell71r2 {background-color:#c8d7de;text-align:right;mso-number-format: "\#\,\#\#0\.00_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\);"}
+	.cell71r3 {background-color:#c8d7de;text-align:right;mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\);"}
+	.cell71rprn {background-color:#c8d7de;text-align:right;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)"}
+	.cell71rprn0 {background-color:#c8d7de;text-align:right;mso-number-format: "0\%;\[Red\]\\\(0\%\\\)"}
+	.cell71rprn1 {background-color:#c8d7de;text-align:right;mso-number-format: "0\.0%;\[Red\]\\\(0\.0%\\\)"}
+	.cell71rprn2 {background-color:#c8d7de;text-align:right;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)"}
+	.cell71rprn3 {background-color:#c8d7de;text-align:right;mso-number-format: "0\.000%;\[Red\]\\\(0\.000%\\\)"}
+	
+	.cell71ri {background-color:#c8d7de;text-align:right;font-style:italic;color:#4E6702}
+	.cell05l {background-color:#fff;text-align: left;}
+	.cell05lbr {background-color:#fff;text-align: left;border-right:solid 1px #CCC;border-top:solid 1px #E5EBF4;}
+	
+	
+	.cell04r {background-color:#f2f4f9;text-align: right;}
+	.cell04rprn {background-color:#f2f4f9;text-align: right;mso-number-format: "0\.0%;\[Red\]\\\(0\.0%\\\)"}
+	.cell04rprn0 {background-color:#f2f4f9;text-align: right;mso-number-format: "0\%;\[Red\]\\\(0\%\\\)"}
+	.cell04l {background-color:#f2f4f9;border-bottom:1px solid #CCC}
+	.cell04lbr {background-color:#f2f4f9;border-right:solid 1px #CCC}
+	.cell04li {border-bottom:1px solid #FFF;font-style:italic;color:#4E6702}
+	.cell04libr {border-bottom:1px solid #FFF;font-style:italic;color:#4E6702;border-right:solid 1px #CCC;border-bottom:1px solid #E5EBF4;}
+	
+	.cell04bt {background-color:#f2f4f9;text-align: right; border-top:1px solid #E5EBF4;}
+	.cell04lbtr {background-color:#f2f4f9;border-right:solid 1px #CCC; border-top:1px solid #E5EBF4;}
+	
+	.cell61r {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)";}
+	.cell61r0 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)";}
+	.cell61r1 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "\#\,\#\#0\.0_\)\;\[Red\]\\\(\#\,\#\#0\.0\\\)";}
+	.cell61r2 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "\#\,\#\#0\.00_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\)";}
+	.cell61r3 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)";}
+	.cell61rn {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)"; color: #dc0a0a;}
+	.cell61rRpecision {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "\#\,\#\#0\.00_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\)";}
+	.cell61rRpecision0 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "\#\,\#\#0\._\)\;\[Red\]\\\(\#\,\#\#0\.\\\)";}
+	.cell61rRpecision1 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "\#\,\#\#0\.0_\)\;\[Red\]\\\(\#\,\#\#0\.0\\\)";}
+	.cell61rRpecision2 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "\#\,\#\#0\.00_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\)";}
+	.cell61rRpecision3 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)";}
+	.cell61rRpecision4 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "\#\,\#\#0\.0000_\)\;\[Red\]\\\(\#\,\#\#0\.0000\\\)";}
+	.cell61rRpecision6 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "\#\,\#\#0\.000000_\)\;\[Red\]\\\(\#\,\#\#0\.000000\\\)";}
+	.cell61rprn {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)";}
+	.cell61rprn0 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "0\.%;\[Red\]\\\(0\.%\\\)";}
+	.cell61rprn1 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "0\.0%;\[Red\]\\\(0\.0%\\\)";}
+	.cell61rprn2 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)";}
+	.cell61rprn3 {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;mso-number-format: "0\.000%;\[Red\]\\\(0\.000%\\\)";}
+	.cell61rbr {background-color:#F3F6FB;text-align: right;border-top:1px solid #E5EBF4;border-right:solid 1px #CCC;}
+	.cell61ri {background-color:#F3F6FB;text-align:right;font-style:italic;color:#4E6702;border-bottom:1px solid #E5EBF4}
+	.cell61rb {border:1px solid #fff;font-weight:bold;text-align:right;background-color: #abc4ea}
+	
+	.cell61li {background-color:#F3F6FB;text-align:left;font-style:italic;color:#4E6702}
+	.cell35l {background-color:#F2F4F9;border-top:1px solid #E5EBF4}
+	.cell35li {background-color:#F2F4F9;border-bottom:1px solid #E5EBF4;font-style:italic;color:#4E6702}
+	.cell35lbr {padding-left:20px;background-color:#F2F4F9;border-top:1px solid #E5EBF4;border-right:solid 1px #CCC}
+	.cell35libr {background-color:#F2F4F9;border-bottom:1px solid #E5EBF4;font-style:italic;color:#4E6702;border-right:solid 1px #CCC}
+	.cell35r {background-color:#F2F4F9;border-top:1px solid #E5EBF4;text-align: right}
+	.cell35ri {background-color:#F2F4F9;border-bottom:1px solid #E5EBF4;text-align: right;font-style:italic;color:#4E6702}
+	.cell31r {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align: right;;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)"}
+	.cell31r0 {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align: right;;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)"}
+	.cell31r1 {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align: right;;mso-number-format: "\#\,\#\#0\.0_\)\;\[Red\]\\\(\#\,\#\#0\.0\\\)"}
+	.cell31r2 {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align: right;;mso-number-format: "\#\,\#\#0\.00_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\)"}
+	.cell31r3 {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align: right;;mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)"}
+	.cell31r6 {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align: right;;mso-number-format: "\#\,\#\#0\.000000_\)\;\[Red\]\\\(\#\,\#\#0\.000000\\\)"}
+	.cell31rprn {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align: right;;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)"}
+	.cell31rprn0 {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align: right;;mso-number-format: "0\%;\[Red\]\\\(0\%\\\)"}
+	.cell31rprn1 {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align: right;;mso-number-format: "0\.0%;\[Red\]\\\(0\.0%\\\)"}
+	.cell31rprn2 {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align: right;;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)"}
+	.cell31rprn3 {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align: right;;mso-number-format: "0\.000%;\[Red\]\\\(0\.000%\\\)"}
+	.cell31rPrecision {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align: right;;mso-number-format: "\#\,\#\#0\.0000_\)\;\[Red\]\\\(\#\,\#\#0\.0000\\\)"}
+	.cell31rbr {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align: right;border-right:solid 1px #CCC}
+	.cell31ri {background-color:#F5F6FA;border-bottom:1px solid #E5EBF4;text-align: right;font-style:italic;color:#4E6702}
+	.cell31l {background-color:#F5F6FA;border-bottom:1px solid #E5EBF4;text-align:left}
+	.cell31lbt {background-color:#F5F6FA;border-top:1px solid #E5EBF4;text-align:left}
+	.cell31lbr {background-color:#F5F6FA;border-bottom:1px solid #E5EBF4;text-align:left;border-right:solid 1px #CCC}
+	.cell31li {background-color:#F5F6FA;border-bottom:1px solid #E5EBF4;text-align:left;font-style:italic;color:#4E6702}
+	.cell31libr {padding-left:20px;background-color:#F5F6FA;border-bottom:1px solid #E5EBF4;text-align:left;font-style:italic;color:#4E6702;border-right:solid 1px #CCC}
+	.cell51r {background-color:#F2F4F9;border-top:1px solid #E5EBF4;text-align:right;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)"}
+	.cell51r0 {background-color:#F2F4F9;border-top:1px solid #E5EBF4;text-align:right;mso-number-format: "\#\,\#\#0_\)\;\[Red\]\\\(\#\,\#\#0\\\)"}
+	.cell51r1 {background-color:#F2F4F9;border-top:1px solid #E5EBF4;text-align:right;mso-number-format: "\#\,\#\#0\.0_\)\;\[Red\]\\\(\#\,\#\#0\.0\\\)"}
+	.cell51r2 {background-color:#F2F4F9;border-top:1px solid #E5EBF4;text-align:right;mso-number-format: "\#\,\#\#0\.00_\)\;\[Red\]\\\(\#\,\#\#0\.00\\\)"}
+	.cell51r3 {background-color:#F2F4F9;border-top:1px solid #E5EBF4;text-align:right;mso-number-format: "\#\,\#\#0\.000_\)\;\[Red\]\\\(\#\,\#\#0\.000\\\)"}	
+	.cell51rprn {background-color:#F2F4F9;border-top:1px solid #E5EBF4;text-align:right;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)"}
+	.cell51rprn0 {background-color:#F2F4F9;border-top:1px solid #E5EBF4;text-align:right;mso-number-format: "0\%;\[Red\]\\\(0\%\\\)"}
+	.cell51rprn1 {background-color:#F2F4F9;border-top:1px solid #E5EBF4;text-align:right;mso-number-format: "0\.0%;\[Red\]\\\(0\.0%\\\)"}
+	.cell51rprn2 {background-color:#F2F4F9;border-top:1px solid #E5EBF4;text-align:right;mso-number-format: "0\.00%;\[Red\]\\\(0\.00%\\\)"}
+	.cell51rprn3 {background-color:#F2F4F9;border-top:1px solid #E5EBF4;text-align:right;mso-number-format: "0\.000%;\[Red\]\\\(0\.000%\\\)"}
+	.cell51ri {background-color:#F2F4F9;border-bottom:1px solid #E5EBF4;text-align:right;font-style:italic;color:#4E6702}
+	.cell51l {background-color:#F2F4F9;border-bottom:1px solid #E5EBF4;text-align:left}
+	.cell51li {background-color:#F2F4F9;border-bottom:1px solid #E5EBF4;text-align:left;font-style:italic;color:#4E6702}
+	
+	.cell31c0 {border-top:solid 1px #C1C1C1;border-bottom:solid 1px #C1C1C1;font-size:14px;font-weight:bold;text-align:center;background-color:#F5F6FA}
+	.cell31l0 {border-top:solid 1px #C1C1C1;border-bottom:solid 1px #C1C1C1;font-size:14px;font-weight:bold;text-align:left;background-color:#F5F6FA;}
+	.cell31l0br {border-top:solid 1px #C1C1C1;border-bottom:solid 1px #C1C1C1;font-size:14px;font-weight:bold;text-align:left;background-color:#F5F6FA;border-right:solid 1px #CCC}
+	.cell61c0 {border-top:solid 1px #C1C1C1;border-bottom:solid 1px #C1C1C1;font-size:14px;font-weight:bold;text-align:center;background-color:#F3F6FB}
+
+	.cell21c-sel-anrev-0 {padding: 3px 5px;text-align: center;background-color: #F2F4FC;border-top:solid 1px #C1C1C1;border-bottom:solid 1px #C1C1C1;vertical-align: top;font-weight: bold;background: #FFF;color: #888;font-size:14px;height:19px;}
+	.cell21c-sel-anrev-1 {padding: 3px 5px;text-align: center;border-top:solid 1px #C1C1C1;border-bottom:solid 1px #C1C1C1;vertical-align: top;font-weight: bold;background: #C51312;color: #FFF; font-size:14px;height:19px;}
+    .cell21c-sel-anrev-2 {padding: 3px 5px;text-align: center; border-top:solid 1px #C1C1C1;border-bottom:solid 1px #C1C1C1;vertical-align: top;font-weight: bold;background: #E8A1A0;color: #000;text-align: center; font-size:14px;height:19px;}
+	.cell21c-sel-anrev-3 {padding: 3px 5px;text-align: center;border-top:solid 1px #C1C1C1;border-bottom:solid 1px #C1C1C1;vertical-align: top;font-weight: bold;background: #E0E0E0;color: #333; font-size:14px;height:19px;}
+	.cell21c-sel-anrev-4 {padding: 3px 5px;text-align: center;border-top:solid 1px #C1C1C1;border-bottom:solid 1px #C1C1C1;vertical-align: top;font-weight: bold;background: #A2D09C;color: #000; font-size:14px;height:19px;}
+	.cell21c-sel-anrev-5 {padding: 3px 5px;text-align: center;border-top:solid 1px #C1C1C1;border-bottom:solid 1px #C1C1C1;vertical-align: top;font-weight: bold;background: #309724;color: #FFF; font-size:14px;height:19px;}
+	.cell21c-sel-anrev-8 {padding: 3px 5px;text-align: center;border-top:solid 1px #C1C1C1;border-bottom:solid 1px #C1C1C1;vertical-align: top;font-weight: bold;background-color: #F0F0F2; font-size:14px;height:19px;}
+
+	#contentTable tr
+	{
+		border-bottom: 1px solid #dddddd;
+	}
+	
+	.table2 tr td span
+	{
+		border-bottom: 1px solid #dddddd; background-color: #abc4ea;
+	}
+	
+	</style>
+
+	<div class="mso_stitle">
+		Tchaikapharma High Quality Medicines AD | Balance Sheet | Thomson Reuters Eikon
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<span><span><span>05-May-2020 14:24</span></span></span>
+	</div>
+
+
+	<div class="header"><h1></h1></div>
+		<div id="content" style="width:100%">
+		
+		
+
+
+<div class="l-2columns">
+	<div class="l-2columns-first">
+		<div class="page-content-title">
+			<div class="page-content-title-item">
+				<span class="page-content-title-text">Balance Sheet</span>
+			</div>
+ 
+		</div>
+	</div>
+	
+	<div class="l-2columns-last"></div>	
+</div>
+
+		<div id="EVzCORPxFUNDTALSzBALSHT" class="ContentContainer" width="100%">
+	<div id="o1" class="content-wrapper">
+		<div id="FilterContainer">
+			<div id="_ctl0_ContentPlaceHolder_EVzCORPxFUNDTALSzBALSHT_o1_FilterContainer_Content" class="Content">
+				<div id="_ctl0_ContentPlaceHolder_EVzCORPxFUNDTALSzBALSHT_o1_FilterContainer_Content_Content" class="Content">
+<span id="a1adfe56-f3d7-4930-9e77-57c52ff06efd"></span>
+					
+
+
+<td>Annual  Standardised  in Millions of U.S. Dollars</td>
+<table id="headerTable" class="table2" cellspacing="0" cellpadding="0">
+	<!--Header-->
+	<!--Annual mode-->
+	
+			<tr>
+				<td class="cell61l" nowrap="nowrap">
+					&nbsp;
+				</td>
+				
+						<td colspan="0" class="cell61rPH"
+							nowrap="nowrap">
+							2015
+						</td>
+					
+						<td colspan="0" class="cell61rPH"
+							nowrap="nowrap">
+							2016
+						</td>
+					
+						<td colspan="0" class="cell61rPH"
+							nowrap="nowrap">
+							2017
+						</td>
+					
+						<td colspan="0" class="cell61rPH"
+							nowrap="nowrap">
+							2018
+						</td>
+					
+						<td colspan="0" class="cell61rPH"
+							nowrap="nowrap">
+							2019
+						</td>
+					
+			</tr>
+		
+		<!--Other Modes-->
+		
+		<tr titleHeader="EarningsQualityScore" >
+			
+				<td class="cell31l0br" align="right" nowrap="nowrap" >
+					Earnings Quality Score
+				</td>
+			
+			
+					<td class="cell21c-sel-anrev-3" align="right" nowrap="nowrap" >
+						
+						37&nbsp;
+						
+					</td>
+				
+					<td class="cell21c-sel-anrev-3" align="right" nowrap="nowrap" >
+						
+						49&nbsp;
+						
+					</td>
+				
+					<td class="cell21c-sel-anrev-0" align="right" nowrap="nowrap" >
+						
+						N/A&nbsp;
+						
+					</td>
+				
+					<td class="cell21c-sel-anrev-3" align="right" nowrap="nowrap" >
+						
+						48&nbsp;
+						
+					</td>
+				
+					<td class="cell21c-sel-anrev-2" align="right" nowrap="nowrap" >
+						
+						16&nbsp;
+						
+					</td>
+				
+		</tr>
+	
+		<tr titleHeader="PeriodEndDate" >
+			
+				<td class="cell31rbr" align="right" nowrap="nowrap" >
+					Period End Date
+				</td>
+			
+			
+					<td class="cell31r" align="right" nowrap="nowrap" >
+						
+						31-Dec-2015&nbsp;
+						
+					</td>
+				
+					<td class="cell31r" align="right" nowrap="nowrap" >
+						
+						31-Dec-2016&nbsp;
+						
+					</td>
+				
+					<td class="cell31r" align="right" nowrap="nowrap" >
+						
+						31-Dec-2017&nbsp;
+						
+					</td>
+				
+					<td class="cell31r" align="right" nowrap="nowrap" >
+						
+						31-Dec-2018&nbsp;
+						
+					</td>
+				
+					<td class="cell31r" align="right" nowrap="nowrap" >
+						
+						31-Dec-2019&nbsp;
+						
+					</td>
+				
+		</tr>
+	
+		<tr titleHeader="ExchangeRatePeriodEnd" >
+			
+				<td class="cell31rbr" align="right" nowrap="nowrap" >
+					Period End FX Rate (BGN/USD)
+				</td>
+			
+			
+					<td class="cell31r" align="right" nowrap="nowrap" >
+						
+						0.555309&nbsp;
+						
+					</td>
+				
+					<td class="cell31r" align="right" nowrap="nowrap" >
+						
+						0.538213&nbsp;
+						
+					</td>
+				
+					<td class="cell31r" align="right" nowrap="nowrap" >
+						
+						0.613535&nbsp;
+						
+					</td>
+				
+					<td class="cell31r" align="right" nowrap="nowrap" >
+						
+						0.586441&nbsp;
+						
+					</td>
+				
+					<td class="cell31r" align="right" nowrap="nowrap" >
+						
+						0.573394&nbsp;
+						
+					</td>
+				
+		</tr>
+	
+		<!--ItemsRendering-->
+		
+				
+<tr style="height:16px;">
+	
+		<td class="cell71l" noWrap="noWrap">Assets ($ Millions)</td>
+	
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+</tr>
+
+
+
+				
+	<tbody>
+		
+
+
+
+<tr coa="SCSI" name="40" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.SCSI"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Cash and Short Term Investments
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			0.02
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.02
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.02
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.15
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.02
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodySCSI">
+		
+				
+
+
+
+<tr coa="ACSH" name="10" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.ACSH"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Cash
+		</td>
+	
+	
+		<td class="cell31r2">
+			0.02
+		</td>
+		
+		<td class="cell31r2">
+			0.02
+		</td>
+		
+		<td class="cell31r2">
+			0.01
+		</td>
+		
+		<td class="cell31r2">
+			0.15
+		</td>
+		
+		<td class="cell31r2">
+			0.02
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+				
+
+
+
+<tr coa="ASTI" name="30" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.ASTI"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Short Term Investments
+		</td>
+	
+	
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			0.00
+		</td>
+		
+		<td class="cell31r2">
+			0.00
+		</td>
+		
+		<td class="cell31r2">
+			0.00
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="AACR" name="70" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.AACR"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Accounts Receivable - Trade, Net
+		</td>
+	
+	
+		<td class="cell01r2">
+			20.68
+		</td>
+		
+		<td class="cell01r2">
+			26.59
+		</td>
+		
+		<td class="cell01r2">
+			33.75
+		</td>
+		
+		<td class="cell01r2">
+			41.98
+		</td>
+		
+		<td class="cell01r2">
+			42.40
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="ATRC" name="100" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.ATRC"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Total Receivables, Net
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			21.19
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			27.10
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			34.34
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			42.04
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			42.40
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodyATRC">
+		
+				
+
+
+
+<tr coa="AORC" name="90" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.AORC"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Receivables - Other
+		</td>
+	
+	
+		<td class="cell31r2">
+			0.51
+		</td>
+		
+		<td class="cell31r2">
+			0.51
+		</td>
+		
+		<td class="cell31r2">
+			0.60
+		</td>
+		
+		<td class="cell31r2">
+			0.06
+		</td>
+		
+		<td class="cell31r2">
+			0.01
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="AITL" name="180" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.AITL"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Total Inventory
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			2.62
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			2.74
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			3.18
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			3.22
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			5.02
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodyAITL">
+		
+				
+
+
+
+<tr coa="AIFG" name="110" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.AIFG"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Inventories - Finished Goods
+		</td>
+	
+	
+		<td class="cell31r2">
+			0.05
+		</td>
+		
+		<td class="cell31r2">
+			0.10
+		</td>
+		
+		<td class="cell31r2">
+			0.14
+		</td>
+		
+		<td class="cell31r2">
+			0.02
+		</td>
+		
+		<td class="cell31r2">
+			0.14
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+				
+
+
+
+<tr coa="AIWP" name="120" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.AIWP"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Inventories - Work In Progress
+		</td>
+	
+	
+		<td class="cell31r2">
+			0.14
+		</td>
+		
+		<td class="cell31r2">
+			0.07
+		</td>
+		
+		<td class="cell31r2">
+			0.02
+		</td>
+		
+		<td class="cell31r2">
+			0.10
+		</td>
+		
+		<td class="cell31r2">
+			0.66
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+				
+
+
+
+<tr coa="AIRM" name="130" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.AIRM"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Inventories - Raw Materials
+		</td>
+	
+	
+		<td class="cell31r2">
+			2.34
+		</td>
+		
+		<td class="cell31r2">
+			2.49
+		</td>
+		
+		<td class="cell31r2">
+			2.69
+		</td>
+		
+		<td class="cell31r2">
+			2.97
+		</td>
+		
+		<td class="cell31r2">
+			3.71
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+				
+
+
+
+<tr coa="AIOT" name="140" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.AIOT"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Inventories - Other
+		</td>
+	
+	
+		<td class="cell31r2">
+			0.08
+		</td>
+		
+		<td class="cell31r2">
+			0.07
+		</td>
+		
+		<td class="cell31r2">
+			0.33
+		</td>
+		
+		<td class="cell31r2">
+			0.13
+		</td>
+		
+		<td class="cell31r2">
+			0.51
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="APPY" name="190" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.APPY"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Prepaid Expenses
+		</td>
+	
+	
+		<td class="cell01r2">
+			0.09
+		</td>
+		
+		<td class="cell01r2">
+			0.01
+		</td>
+		
+		<td class="cell01r2">
+			0.02
+		</td>
+		
+		<td class="cell01r2">
+			0.01
+		</td>
+		
+		<td class="cell01r2">
+			0.04
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="SOCA" name="260" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.SOCA"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Other Current Assets, Total
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			0.00
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.01
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.00
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.00
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodySOCA">
+		
+				
+
+
+
+<tr coa="ARCA" name="200" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.ARCA"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Restricted Cash - Current
+		</td>
+	
+	
+		<td class="cell31r2">
+			0.00
+		</td>
+		
+		<td class="cell31r2">
+			0.01
+		</td>
+		
+		<td class="cell31r2">
+			0.00
+		</td>
+		
+		<td class="cell31r2">
+			0.00
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="ATCA" name="270" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.ATCA"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Current Assets
+		</td>
+	
+	
+		<td class="cell01r2">
+			23.91
+		</td>
+		
+		<td class="cell01r2">
+			29.87
+		</td>
+		
+		<td class="cell01r2">
+			37.56
+		</td>
+		
+		<td class="cell01r2">
+			45.42
+		</td>
+		
+		<td class="cell01r2">
+			47.49
+		</td>
+		
+</tr>
+
+
+
+	<tr>
+		 
+		<td class="cell01l">
+            &nbsp
+		</td>
+		
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+    </tr>
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="APTC" name="520" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.APTC"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Property/Plant/Equipment, Total - Gross
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			--
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			15.94
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			26.95
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			26.50
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			27.96
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodyAPTC">
+		
+				
+
+
+
+<tr coa="APBC" name="450" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.APBC"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Buildings - Gross
+		</td>
+	
+	
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			6.67
+		</td>
+		
+		<td class="cell31r2">
+			6.45
+		</td>
+		
+		<td class="cell31r2">
+			6.31
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+				
+
+
+
+<tr coa="ALIC" name="460" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.ALIC"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Land/Improvements - Gross
+		</td>
+	
+	
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			0.42
+		</td>
+		
+		<td class="cell31r2">
+			0.49
+		</td>
+		
+		<td class="cell31r2">
+			0.49
+		</td>
+		
+		<td class="cell31r2">
+			0.48
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+				
+
+
+
+<tr coa="AMEC" name="470" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.AMEC"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Machinery/Equipment - Gross
+		</td>
+	
+	
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			15.52
+		</td>
+		
+		<td class="cell31r2">
+			18.31
+		</td>
+		
+		<td class="cell31r2">
+			18.04
+		</td>
+		
+		<td class="cell31r2">
+			18.84
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+				
+
+
+
+<tr coa="AOPC" name="510" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.AOPC"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Other Property/Plant/Equipment - Gross
+		</td>
+	
+	
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			1.48
+		</td>
+		
+		<td class="cell31r2">
+			1.52
+		</td>
+		
+		<td class="cell31r2">
+			2.34
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="APPN" name="540" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.APPN"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Property/Plant/Equipment, Total - Net
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			15.07
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			13.93
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			16.44
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			15.10
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			15.47
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodyAPPN">
+		
+				
+
+
+
+<tr coa="ADEP" name="530" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.ADEP"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Accumulated Depreciation, Total
+		</td>
+	
+	
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			(7.98)
+		</td>
+		
+		<td class="cell31r2">
+			(10.51)
+		</td>
+		
+		<td class="cell31r2">
+			(11.40)
+		</td>
+		
+		<td class="cell31r2">
+			(12.49)
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="AGWI" name="570" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.AGWI"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Goodwill, Net
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="AINT" name="600" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.AINT"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Intangibles, Net
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			2.20
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			1.96
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			1.84
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			1.68
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			1.80
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodyAINT">
+		
+				
+
+
+
+<tr coa="AING" name="580" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.AING"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Intangibles - Gross
+		</td>
+	
+	
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			4.46
+		</td>
+		
+		<td class="cell31r2">
+			4.29
+		</td>
+		
+		<td class="cell31r2">
+			4.55
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+				
+
+
+
+<tr coa="AAMT" name="590" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.AAMT"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Accumulated Intangible Amortization
+		</td>
+	
+	
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			(2.62)
+		</td>
+		
+		<td class="cell31r2">
+			(2.61)
+		</td>
+		
+		<td class="cell31r2">
+			(2.75)
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="SINV" name="690" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.SINV"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Long Term Investments
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			0.00
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.00
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.00
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.00
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodySINV">
+		
+				
+
+
+
+<tr coa="ALTI" name="680" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.ALTI"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			LT Investments - Other
+		</td>
+	
+	
+		<td class="cell31r2">
+			0.00
+		</td>
+		
+		<td class="cell31r2">
+			0.00
+		</td>
+		
+		<td class="cell31r2">
+			0.00
+		</td>
+		
+		<td class="cell31r2">
+			0.00
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="ALTR" name="710" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.ALTR"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Note Receivable - Long Term
+		</td>
+	
+	
+		<td class="cell01r2">
+			3.39
+		</td>
+		
+		<td class="cell01r2">
+			3.24
+		</td>
+		
+		<td class="cell01r2">
+			3.66
+		</td>
+		
+		<td class="cell01r2">
+			2.91
+		</td>
+		
+		<td class="cell01r2">
+			2.83
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="SOLA" name="780" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.SOLA"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Other Long Term Assets, Total
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			--
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.02
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			--
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			--
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodySOLA">
+		
+				
+
+
+
+<tr coa="ADFC" name="720" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.ADFC"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Deferred Charges
+		</td>
+	
+	
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			0.02
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="ATOT" name="880" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.ATOT"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Assets
+		</td>
+	
+	
+		<td class="cell01r2">
+			44.58
+		</td>
+		
+		<td class="cell01r2">
+			49.02
+		</td>
+		
+		<td class="cell01r2">
+			59.50
+		</td>
+		
+		<td class="cell01r2">
+			65.12
+		</td>
+		
+		<td class="cell01r2">
+			67.59
+		</td>
+		
+</tr>
+
+
+
+	<tr>
+		 
+		<td class="cell01l">
+            &nbsp
+		</td>
+		
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+    </tr>
+
+
+
+
+	</tbody>
+	
+
+			
+				
+<tr style="height:16px;">
+	
+		<td class="cell71l" noWrap="noWrap">Liabilities ($ Millions)</td>
+	
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+</tr>
+
+
+
+				
+	<tbody>
+		
+
+
+
+<tr coa="LAPB" name="890" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.LAPB"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Accounts Payable
+		</td>
+	
+	
+		<td class="cell01r2">
+			1.26
+		</td>
+		
+		<td class="cell01r2">
+			1.38
+		</td>
+		
+		<td class="cell01r2">
+			1.05
+		</td>
+		
+		<td class="cell01r2">
+			2.07
+		</td>
+		
+		<td class="cell01r2">
+			3.77
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="LPBA" name="900" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.LPBA"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Payable/Accrued
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="LAEX" name="910" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.LAEX"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Accrued Expenses
+		</td>
+	
+	
+		<td class="cell01r2">
+			0.15
+		</td>
+		
+		<td class="cell01r2">
+			0.18
+		</td>
+		
+		<td class="cell01r2">
+			0.25
+		</td>
+		
+		<td class="cell01r2">
+			0.27
+		</td>
+		
+		<td class="cell01r2">
+			0.29
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="LSTD" name="1120" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.LSTD"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Notes Payable/Short Term Debt
+		</td>
+	
+	
+		<td class="cell01r2">
+			4.68
+		</td>
+		
+		<td class="cell01r2">
+			6.11
+		</td>
+		
+		<td class="cell01r2">
+			6.00
+		</td>
+		
+		<td class="cell01r2">
+			5.74
+		</td>
+		
+		<td class="cell01r2">
+			5.61
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="LCLD" name="1130" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.LCLD"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Current Port. of  LT Debt/Capital Leases
+		</td>
+	
+	
+		<td class="cell01r2">
+			0.99
+		</td>
+		
+		<td class="cell01r2">
+			0.47
+		</td>
+		
+		<td class="cell01r2">
+			0.30
+		</td>
+		
+		<td class="cell01r2">
+			0.24
+		</td>
+		
+		<td class="cell01r2">
+			0.35
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="SOCL" name="1220" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.SOCL"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Other Current liabilities, Total
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			0.35
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.33
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.19
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.76
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.20
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodySOCL">
+		
+				
+
+
+
+<tr coa="LTXP" name="1170" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.LTXP"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Income Taxes Payable
+		</td>
+	
+	
+		<td class="cell31r2">
+			0.35
+		</td>
+		
+		<td class="cell31r2">
+			0.32
+		</td>
+		
+		<td class="cell31r2">
+			0.18
+		</td>
+		
+		<td class="cell31r2">
+			0.64
+		</td>
+		
+		<td class="cell31r2">
+			0.19
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+				
+
+
+
+<tr coa="LOCL" name="1210" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.LOCL"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Other Current Liabilities
+		</td>
+	
+	
+		<td class="cell31r2">
+			0.00
+		</td>
+		
+		<td class="cell31r2">
+			0.01
+		</td>
+		
+		<td class="cell31r2">
+			0.01
+		</td>
+		
+		<td class="cell31r2">
+			0.12
+		</td>
+		
+		<td class="cell31r2">
+			0.01
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="LTCL" name="1230" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.LTCL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Current Liabilities
+		</td>
+	
+	
+		<td class="cell01r2">
+			7.44
+		</td>
+		
+		<td class="cell01r2">
+			8.46
+		</td>
+		
+		<td class="cell01r2">
+			7.79
+		</td>
+		
+		<td class="cell01r2">
+			9.08
+		</td>
+		
+		<td class="cell01r2">
+			10.23
+		</td>
+		
+</tr>
+
+
+
+	<tr>
+		 
+		<td class="cell01l">
+            &nbsp
+		</td>
+		
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+    </tr>
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="LTTD" name="1260" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.LTTD"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Total Long Term Debt
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			0.92
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.55
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.36
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.11
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			1.17
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodyLTTD">
+		
+				
+
+
+
+<tr coa="LLTD" name="1240" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.LLTD"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Long Term Debt
+		</td>
+	
+	
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			0.12
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+				
+
+
+
+<tr coa="LCLO" name="1250" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.LCLO"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Capital Lease Obligations
+		</td>
+	
+	
+		<td class="cell31r2">
+			0.92
+		</td>
+		
+		<td class="cell31r2">
+			0.55
+		</td>
+		
+		<td class="cell31r2">
+			0.36
+		</td>
+		
+		<td class="cell31r2">
+			0.11
+		</td>
+		
+		<td class="cell31r2">
+			1.05
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="STLD" name="1270" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.STLD"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Debt
+		</td>
+	
+	
+		<td class="cell01r2">
+			6.59
+		</td>
+		
+		<td class="cell01r2">
+			7.12
+		</td>
+		
+		<td class="cell01r2">
+			6.67
+		</td>
+		
+		<td class="cell01r2">
+			6.08
+		</td>
+		
+		<td class="cell01r2">
+			7.13
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="SBDT" name="1300" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.SBDT"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Deferred Income Tax
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			0.67
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.69
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.80
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.74
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.75
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodySBDT">
+		
+				
+
+
+
+<tr coa="LBDT" name="1280" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.LBDT"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Deferred Income Tax - LT Liability
+		</td>
+	
+	
+		<td class="cell31r2">
+			0.67
+		</td>
+		
+		<td class="cell31r2">
+			0.69
+		</td>
+		
+		<td class="cell31r2">
+			0.80
+		</td>
+		
+		<td class="cell31r2">
+			0.74
+		</td>
+		
+		<td class="cell31r2">
+			0.75
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="LMIN" name="1310" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.LMIN"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Minority Interest
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="SLTL" name="1370" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.SLTL"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Other Liabilities, Total
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			0.03
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.04
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.05
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.07
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			0.09
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodySLTL">
+		
+				
+
+
+
+<tr coa="LPBL" name="1330" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.LPBL"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Pension Benefits - Underfunded
+		</td>
+	
+	
+		<td class="cell31r2">
+			0.03
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			0.05
+		</td>
+		
+		<td class="cell31r2">
+			0.07
+		</td>
+		
+		<td class="cell31r2">
+			0.09
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+				
+
+
+
+<tr coa="LLTL" name="1340" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.LLTL"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Other Long Term Liabilities
+		</td>
+	
+	
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			0.04
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+		<td class="cell31r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="LTLL" name="1380" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.LTLL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Liabilities
+		</td>
+	
+	
+		<td class="cell01r2">
+			9.05
+		</td>
+		
+		<td class="cell01r2">
+			9.74
+		</td>
+		
+		<td class="cell01r2">
+			9.01
+		</td>
+		
+		<td class="cell01r2">
+			9.99
+		</td>
+		
+		<td class="cell01r2">
+			12.23
+		</td>
+		
+</tr>
+
+
+
+	<tr>
+		 
+		<td class="cell01l">
+            &nbsp
+		</td>
+		
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+    </tr>
+
+
+
+
+	</tbody>
+	
+
+			
+				
+<tr style="height:16px;">
+	
+		<td class="cell71l" noWrap="noWrap">Shareholders Equity ($ Millions)</td>
+	
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+</tr>
+
+
+
+				
+	<tbody>
+		
+
+
+
+<tr coa="SRPR" name="1410" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.SRPR"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Redeemable Preferred Stock, Total
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="SPRS" name="1460" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.SPRS"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Preferred Stock - Non Redeemable, Net
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="SCMS" name="1490" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.SCMS"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Common Stock, Total
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			27.54
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			30.46
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			39.45
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			42.34
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			47.13
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodySCMS">
+		
+				
+
+
+
+<tr coa="QCMS" name="1470" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.QCMS"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Common Stock
+		</td>
+	
+	
+		<td class="cell31r2">
+			27.54
+		</td>
+		
+		<td class="cell31r2">
+			30.46
+		</td>
+		
+		<td class="cell31r2">
+			39.45
+		</td>
+		
+		<td class="cell31r2">
+			42.34
+		</td>
+		
+		<td class="cell31r2">
+			47.13
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QPIC" name="1500" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QPIC"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Additional Paid-In Capital
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QRED" name="1510" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.QRED"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Retained Earnings (Accumulated Deficit)
+		</td>
+	
+	
+		<td class="cell01r2">
+			6.48
+		</td>
+		
+		<td class="cell01r2">
+			7.13
+		</td>
+		
+		<td class="cell01r2">
+			8.82
+		</td>
+		
+		<td class="cell01r2">
+			10.37
+		</td>
+		
+		<td class="cell01r2">
+			5.87
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTSC" name="1520" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QTSC"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Treasury Stock - Common
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QEDG" name="1530" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QEDG"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			ESOP Debt Guarantee
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QUGL" name="1540" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.QUGL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Unrealized Gain (Loss)
+		</td>
+	
+	
+		<td class="cell01r2">
+			1.51
+		</td>
+		
+		<td class="cell01r2">
+			1.69
+		</td>
+		
+		<td class="cell01r2">
+			2.22
+		</td>
+		
+		<td class="cell01r2">
+			2.42
+		</td>
+		
+		<td class="cell01r2">
+			2.35
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="SOTE" name="1590" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.SOTE"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Other Equity, Total
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTLE" name="1600" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.QTLE"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Equity
+		</td>
+	
+	
+		<td class="cell01r2">
+			35.52
+		</td>
+		
+		<td class="cell01r2">
+			39.29
+		</td>
+		
+		<td class="cell01r2">
+			50.50
+		</td>
+		
+		<td class="cell01r2">
+			55.13
+		</td>
+		
+		<td class="cell01r2">
+			55.36
+		</td>
+		
+</tr>
+
+
+
+	<tr>
+		 
+		<td class="cell01l">
+            &nbsp
+		</td>
+		
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+    </tr>
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTEL" name="1610" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.QTEL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Liabilities & Shareholders' Equity
+		</td>
+	
+	
+		<td class="cell01r2">
+			44.58
+		</td>
+		
+		<td class="cell01r2">
+			49.02
+		</td>
+		
+		<td class="cell01r2">
+			59.50
+		</td>
+		
+		<td class="cell01r2">
+			65.12
+		</td>
+		
+		<td class="cell01r2">
+			67.59
+		</td>
+		
+</tr>
+
+
+
+	<tr>
+		 
+		<td class="cell01l">
+            &nbsp
+		</td>
+		
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+					<td class="cell01l">
+						&nbsp
+					</td>
+			
+    </tr>
+
+
+
+
+	</tbody>
+	
+
+			
+				
+<tr style="height:16px;">
+	
+		<td class="cell71l" noWrap="noWrap">Supplemental ($ Millions)</td>
+	
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+</tr>
+
+
+
+				
+	<tbody>
+		
+
+
+
+<tr coa="QCSO2" name="1630" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QCSO2"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Shares Outstanding - Common Issue 2
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QCSO3" name="1640" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QCSO3"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Shares Outstanding - Common Issue 3
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QCSO4" name="1650" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QCSO4"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Shares Outstanding - Common Issue 4
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTCO" name="1660" class="col-exp-row "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.QTCO"  colspan='1'
+			class='col-exp-row-cell01lbr'
+			nowrap="nowrap">
+			Total Common Shares Outstanding
+		</td>
+	
+	
+		<td class="col-exp-row-cell01r2">
+			82.20
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			82.20
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			82.20
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			82.20
+		</td>
+		
+		<td class="col-exp-row-cell01r2">
+			82.20
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+	<tbody id="tableBodyQTCO">
+		
+				
+
+
+
+<tr coa="QCSO1" name="1620" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.QCSO1"  colspan='1'
+			class='cell35lbr'
+			nowrap="nowrap">
+			Shares Outs - Common Stock Primary Issue
+		</td>
+	
+	
+		<td class="cell31r2">
+			82.20
+		</td>
+		
+		<td class="cell31r2">
+			82.20
+		</td>
+		
+		<td class="cell31r2">
+			82.20
+		</td>
+		
+		<td class="cell31r2">
+			82.20
+		</td>
+		
+		<td class="cell31r2">
+			82.20
+		</td>
+		
+</tr>
+
+
+
+
+
+
+			
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTSN1" name="1670" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.QTSN1"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Treas Shares - Common Stock Prmry Issue
+		</td>
+	
+	
+		<td class="cell01r2">
+			0.00
+		</td>
+		
+		<td class="cell01r2">
+			0.00
+		</td>
+		
+		<td class="cell01r2">
+			0.00
+		</td>
+		
+		<td class="cell01r2">
+			0.00
+		</td>
+		
+		<td class="cell01r2">
+			0.00
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTSN2" name="1680" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QTSN2"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Treasury Shares - Common Issue 2
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTSN3" name="1690" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QTSN3"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Treasury Shares - Common Issue 3
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTSN4" name="1700" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QTSN4"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Treasury Shares - Common Issue 4
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTPO" name="1770" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QTPO"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Preferred Shares Outstanding
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTPN1" name="1780" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QTPN1"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Treasury Shares - Preferred Issue 1
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTPN2" name="1790" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QTPN2"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Treasury Shares - Preferred Issue 2
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTPN3" name="1800" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QTPN3"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Treasury Shares - Preferred Issue 3
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTPN4" name="1810" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QTPN4"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Treasury Shares - Preferred Issue 4
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTPN5" name="1820" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QTPN5"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Treasury Shares - Preferred Issue 5
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTPN6" name="1830" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.QTPN6"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Treasury Shares - Preferred Issue 6
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VMIR" name="1831" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VMIR"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Minority Interest - Redeemable
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VMNR" name="1832" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VMNR"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Minority Interest - Non Redeemable
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="QTLL" name="1833" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.QTLL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Equity & Minority Interest
+		</td>
+	
+	
+		<td class="cell01r2">
+			35.52
+		</td>
+		
+		<td class="cell01r2">
+			39.29
+		</td>
+		
+		<td class="cell01r2">
+			50.50
+		</td>
+		
+		<td class="cell01r2">
+			55.13
+		</td>
+		
+		<td class="cell01r2">
+			55.36
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="METL" name="1840" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.METL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Full-Time Employees
+		</td>
+	
+	
+		<td class="cell01r0">
+			124
+		</td>
+		
+		<td class="cell01r0">
+			126
+		</td>
+		
+		<td class="cell01r0">
+			133
+		</td>
+		
+		<td class="cell01r0">
+			133
+		</td>
+		
+		<td class="cell01r0">
+			148
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="MPTL" name="1841" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.MPTL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Part-Time Employees
+		</td>
+	
+	
+		<td class="cell01r0">
+			--
+		</td>
+		
+		<td class="cell01r0">
+			--
+		</td>
+		
+		<td class="cell01r0">
+			--
+		</td>
+		
+		<td class="cell01r0">
+			--
+		</td>
+		
+		<td class="cell01r0">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="MNOS" name="1850" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.MNOS"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Number of Common Shareholders
+		</td>
+	
+	
+		<td class="cell01r0">
+			--
+		</td>
+		
+		<td class="cell01r0">
+			63
+		</td>
+		
+		<td class="cell01r0">
+			--
+		</td>
+		
+		<td class="cell01r0">
+			--
+		</td>
+		
+		<td class="cell01r0">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VPPN" name="1851" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.VPPN"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Other Property/Plant/Equipment - Net
+		</td>
+	
+	
+		<td class="cell01r2">
+			15.07
+		</td>
+		
+		<td class="cell01r2">
+			5.97
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VINT" name="1852" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.VINT"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Intangibles - Net
+		</td>
+	
+	
+		<td class="cell01r2">
+			2.20
+		</td>
+		
+		<td class="cell01r2">
+			1.96
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VGWI" name="1853" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VGWI"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Goodwill - Net
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VAGA" name="1854" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VAGA"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Accumulated Goodwill Amortization Suppl.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VAIA" name="1855" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VAIA"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Accumulated Intangible Amort, Suppl.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			2.62
+		</td>
+		
+		<td class="cell01r2">
+			2.61
+		</td>
+		
+		<td class="cell01r2">
+			2.75
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VUCN" name="1864" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VUCN"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Right-of-Use Assets-Cap.Lease,Net-Suppl.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VUCG" name="1865" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VUCG"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Right-of-Use Assets-Cap.Lease,Gross-Sup.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VUCD" name="1866" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VUCD"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Right-of-Use Assets-Cap.Lease,Depr.-Sup.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VUON" name="1867" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VUON"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Right-of-Use Assets-Op.Lease, Net-Suppl.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VUOG" name="1868" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VUOG"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Right-of-Use Assets-Op.Lease, Gross-Sup.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VUOD" name="1869" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VUOD"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Right-of-Use Assets-Op.Lease, Depr.-Sup.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VNMS" name="1872" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VNMS"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Non-Current Marketable Securities,Suppl.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VCAS" name="1876" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VCAS"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Contract Assets - Short Term
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VCAL" name="1877" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VCAL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Contract Assets - Long Term
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VADC" name="1880" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VADC"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Deferred Revenue - Current
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VADL" name="1881" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VADL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Deferred Revenue - Long Term
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VFSD" name="1884" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VFSD"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Short Term Debt Financial Sector, Suppl.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VFCD" name="1885" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VFCD"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Curr Port - LTD/Cap Lse Fin Sec., Suppl.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VFLD" name="1886" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VFLD"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Long Term Debt Financial Sector, Suppl.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VFCL" name="1887" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VFCL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Capital Lease Oblig. - Fin Sector, Suppl
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VLCC" name="1888" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VLCC"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Curr. Port. of LT Capital Leases, Suppl.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			0.30
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VLOC" name="1889" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VLOC"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Curr Port of LT Operating Leases, Suppl.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VLOL" name="1890" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VLOL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Long-Term Operating Lease Liabs., Suppl.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VCDV" name="1891" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VCDV"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Curr Derivative Liab. Hedging, Suppl.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VDSC" name="1892" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VDSC"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Curr Derivative Liab. Spec./Trdg, Suppl.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VDVL" name="1893" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VDVL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Non-Curr Derivative Liab. Hedging, Suppl
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VDSN" name="1894" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VDSN"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Non-Curr Derivative Liab Spec/Trdg Suppl
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRLR" name="1895" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRLR"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Leverage Ratio (Basel 3)
+		</td>
+	
+	
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRSF" name="1896" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRSF"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Net Stable Funding Ratio (Basel 3)
+		</td>
+	
+	
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRLC" name="1897" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRLC"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Liquidity Coverage Ratio (Basel 3)
+		</td>
+	
+	
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRVC" name="1898" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRVC"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Capital Adequacy - Core Tier 1 (Value)
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRVH" name="1899" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRVH"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Capital Adequacy - Hybrid Tier 1 (Value)
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRV1" name="1906" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRV1"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Capital Adequacy -Tier 1 Capital (Value)
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRV2" name="1907" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRV2"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Capital Adequacy -Tier 2 Capital (Value)
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRV3" name="1908" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRV3"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Capital Adequacy -Tier 3 Capital (Value)
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRVT" name="1912" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRVT"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Capital Adequacy - Total Capital (Value)
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRWC" name="1914" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRWC"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Risk-Weighted Capital
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRC1" name="1916" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRC1"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Capital Adequacy - Core Tier 1 Capital %
+		</td>
+	
+	
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRTO" name="1917" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRTO"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Capital Adequacy - Tier 1 Capital %
+		</td>
+	
+	
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRT2" name="1918" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRT2"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Capital Adequacy - Tier 2 Capital %
+		</td>
+	
+	
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRT3" name="1919" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRT3"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Capital Adequacy - Tier 3 Capital %
+		</td>
+	
+	
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRTC" name="1920" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRTC"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Capital Adequacy - Total Capital %
+		</td>
+	
+	
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRUA" name="1921" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRUA"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Trading Account
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRUF" name="1922" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRUF"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Credit Exposure
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRUQ" name="1924" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRUQ"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Non-Performing Loans
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRUZ" name="1926" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRUZ"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Assets under Management
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VLS1" name="1927" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VLS1"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Loans - Stage 1 - Gross, Total
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VLS2" name="1928" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VLS2"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Loans - Stage 2 - Gross, Total
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VLS3" name="1929" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VLS3"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Loans - Stage 3 - Gross, Total
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="SCUI" name="1930" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.SCUI"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Current Assets less Inventory
+		</td>
+	
+	
+		<td class="cell01r2">
+			21.30
+		</td>
+		
+		<td class="cell01r2">
+			27.14
+		</td>
+		
+		<td class="cell01r2">
+			34.38
+		</td>
+		
+		<td class="cell01r2">
+			42.20
+		</td>
+		
+		<td class="cell01r2">
+			42.47
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRCL" name="1931" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRCL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Revolving Line of Credit - Outstanding
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VTLC" name="1932" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VTLC"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Rvlvng Line of Credit - Principal Amount
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRAC" name="1933" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRAC"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Rvlvng Line of Credit - Unused Amount
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="SNTD" name="1960" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.SNTD"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Net Debt Incl. Pref.Stock & Min.Interest
+		</td>
+	
+	
+		<td class="cell01r2">
+			6.57
+		</td>
+		
+		<td class="cell01r2">
+			7.10
+		</td>
+		
+		<td class="cell01r2">
+			6.65
+		</td>
+		
+		<td class="cell01r2">
+			5.94
+		</td>
+		
+		<td class="cell01r2">
+			7.11
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="STBV" name="1970" class=" "
+	style=''>
+	
+		<td isfirst="True" coacode="BAL.STBV"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Tangible Book Value, Common Equity
+		</td>
+	
+	
+		<td class="cell01r2">
+			33.32
+		</td>
+		
+		<td class="cell01r2">
+			37.33
+		</td>
+		
+		<td class="cell01r2">
+			48.66
+		</td>
+		
+		<td class="cell01r2">
+			53.44
+		</td>
+		
+		<td class="cell01r2">
+			53.55
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRTA" name="1981" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRTA"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Reported Total Assets
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRTL" name="1982" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRTL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Reported Total Liabilities
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VSEE" name="1983" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VSEE"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Shareholders' Equity Excl. Stock Subscr.
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRSE" name="1984" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRSE"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Reported Shareholder's Equity
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VRNA" name="1985" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VRNA"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Reported Net Assets
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VNAT" name="1986" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VNAT"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Reported Net Assets to Total Assets
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VROA" name="1987" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VROA"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Reported Return on Assets
+		</td>
+	
+	
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VROE" name="1988" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VROE"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Reported Return on Equity
+		</td>
+	
+	
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+		<td class="cell01rprn2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="ISID" name="2046" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.ISID"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Islamic Investments & Deposits
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="ISRC" name="2047" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.ISRC"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Islamic Receivables
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="ISDT" name="2048" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.ISDT"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Islamic Debt
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="ISBT" name="2059" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.ISBT"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Islamic Section, Supplemental
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+			
+				
+<tr style="height:16px;">
+	
+		<td class="cell71l" noWrap="noWrap">Debt & Lease, Pension Items ($ Millions)</td>
+	
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+				<td class="cell71l" nowrap="noWrap">
+						&nbsp;
+				</td>
+			
+</tr>
+
+
+
+				
+	<tbody>
+		
+
+
+
+<tr coa="VTLD" name="2060" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VTLD"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Long Term Debt, Supplemental
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VTCL" name="2150" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VTCL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Capital Leases, Supplemental
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VTOL" name="2290" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VTOL"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Operating Leases, Supplemental
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="SOLI" name="2421" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.SOLI"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Operating Leases - Interest Cost
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VFSS" name="2560" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VFSS"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Funded Status
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VASP" name="2680" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VASP"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Period End Assumptions
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VARS" name="2840" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VARS"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Net Assets Recognized on Balance Sheet
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="VASA" name="3000" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.VASA"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Asset Allocation
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="STPO" name="3010" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.STPO"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Plan Obligations
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+	<tbody>
+		
+
+
+
+<tr coa="STPA" name="3020" class=" "
+	style=''>
+	
+		<td isfirst="False" coacode="BAL.STPA"  colspan='1'
+			class='cell01lbr'
+			nowrap="nowrap">
+			Total Plan Assets
+		</td>
+	
+	
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+		<td class="cell01r2">
+			--
+		</td>
+		
+</tr>
+
+
+
+
+
+
+	</tbody>
+	
+
+			
+	<!--Corax-->
+	
+</table>
+
+
+				</div>
+			</div>
+<span id="d055bda0-75cd-45a4-826f-3b6c4ab2f843"></span>
+
+		</div>
+	</div>
+</div><span></span>
+		
+	</div>
+</body>
+</html>
+
